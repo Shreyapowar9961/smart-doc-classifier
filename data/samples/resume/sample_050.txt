@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Rahul Verma
+Email: rahul.verma@gmail.com
+Phone: +91-9829967158
+LinkedIn: linkedin.com/in/rahulverma
+GitHub: github.com/rahul633
+
+OBJECTIVE
+Motivated software engineer with 1+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+Manipal Institute of Technology, 2018–2022
+CGPA: 8.41/10
+
+SKILLS
+Technical Skills: Linux, C++, NumPy, Pandas, Keras
+Tools & Technologies: Tableau
+Languages: English (Fluent), Hindi, Telugu
+
+WORK EXPERIENCE
+
+Software Engineer | Infosys | 2022–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 34% through code optimization
+- Mentored 2 junior developers and conducted code reviews
+
+Intern | Mphasis | 2021–2022
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+Smart Traffic Management System
+- Built using Pandas and Pandas
+- Achieved 91% accuracy in predictions
+- Deployed on AWS EC2
+
+CERTIFICATIONS
+- Google Cloud Associate
+- Scrum Master
+
+ACHIEVEMENTS
+- Best Paper Award at IEEE Conference
+- CodeChef 3-star rated
+
+REFERENCES
+Available upon request

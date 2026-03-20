@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Ravi Bhat
+Email: ravi.bhat@gmail.com
+Phone: +91-9188398760
+LinkedIn: linkedin.com/in/ravibhat
+GitHub: github.com/ravi605
+
+OBJECTIVE
+Motivated software engineer with 2+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+Anna University, 2015–2019
+CGPA: 8.12/10
+
+SKILLS
+Technical Skills: React, Machine Learning, Flask, MongoDB, Linux
+Tools & Technologies: Power BI, Azure, Django, Git
+Languages: English (Fluent), Hindi, Marathi
+
+WORK EXPERIENCE
+
+Software Engineer | Flipkart | 2019–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 44% through code optimization
+- Mentored 2 junior developers and conducted code reviews
+
+Intern | L&T Infotech | 2018–2019
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+Smart Traffic Management System
+- Built using Flask and Flask
+- Achieved 97% accuracy in predictions
+- Deployed on Azure
+
+CERTIFICATIONS
+- Azure Fundamentals
+- TensorFlow Developer Certificate
+
+ACHIEVEMENTS
+- Best Paper Award at IEEE Conference
+- LeetCode 500+ problems solved
+
+REFERENCES
+Available upon request

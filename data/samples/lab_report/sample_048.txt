@@ -1,0 +1,81 @@
+LABORATORY REPORT
+
+Experiment Name: Titration of Acids and Bases
+Subject: Chemistry Lab
+Student Name: Rahul Verma
+Roll Number: 206739
+Batch: C1
+Date of Experiment: 11/5/2024
+Date of Submission: 11/5/2024
+
+AIM / OBJECTIVE:
+To verify and study titration of acids and bases and to understand the relationship between
+molarity and equivalence point under controlled conditions.
+
+THEORY / BACKGROUND:
+Titration of Acids and Bases is a fundamental concept in Chemistry. According to the theoretical framework,
+molarity is directly proportional to equivalence point
+when pH remains constant. This relationship can be expressed
+mathematically and verified through controlled experimentation.
+
+APPARATUS / MATERIALS REQUIRED:
+1. Power supply (0-30V)
+2. Breadboard
+3. IC 7408
+4. pH meter
+5. LED indicators
+
+PROCEDURE:
+1. Set up the apparatus as shown in the circuit/experimental diagram.
+2. Ensure all connections are secure and the circuit is properly grounded.
+3. Gradually vary molarity from minimum to maximum range.
+4. For each setting, record the corresponding equivalence point.
+5. Repeat each reading 4 times to minimize random errors.
+6. Tabulate all observations carefully.
+7. Plot the graph of molarity vs equivalence point.
+
+OBSERVATIONS:
+
+    S.No.     molarity        equivalence point
+    ────────────────────────────────────────
+    1         9.49          8.24
+    2         6.17          2.54
+    3         3.8          9.03
+    4         5.87          1.46
+    5         1.26          9.13
+    6         1.45          4.45
+
+CALCULATIONS:
+Mean value = 5.808
+Standard Deviation = 3.129
+Percentage Error = 1.92%
+
+GRAPH:
+A graph of molarity vs equivalence point was plotted.
+The graph shows a sinusoidal relationship,
+confirming the theoretical prediction.
+
+RESULT:
+The experiment successfully verified Titration of Acids and Bases. The experimentally obtained value of
+pH = 81.927 Ω
+The theoretical value = 97.395
+Percentage error = 3.8%
+
+SOURCES OF ERROR:
+1. Instrumental errors due to limited precision of measuring instruments
+2. Random errors due to fluctuations in molarity
+3. Human parallax error during reading
+4. Contact resistance in connections (for electrical experiments)
+
+CONCLUSION:
+The experiment was performed successfully. The results confirm the theoretical relationship
+between molarity and equivalence point. The percentage
+error of 2.38% is within acceptable limits, indicating accurate
+experimental technique.
+
+PRECAUTIONS:
+1. All readings were taken after the instrument had stabilized.
+2. The experiment was conducted under constant room temperature (23°C).
+3. All glassware was cleaned and dried before use.
+
+Signature of Student: _______________     Signature of Lab Instructor: _______________

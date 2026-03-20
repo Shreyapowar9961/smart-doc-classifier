@@ -1,0 +1,48 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-1981
+Invoice Date: 16/8/2024
+Due Date: 7/6/2024
+Payment Terms: Net 30
+
+FROM:
+Wipro
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@wipro.com
+
+BILL TO:
+MNO Enterprises Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  API Development                             92        1500        138000
+  API Development                             52        1000         52000
+  API Development                             66        2500        165000
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 355,000.00
+GST @5%:                                               INR  17,750.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 372,750.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: SBI
+Account Number: 71167798361
+IFSC Code: HDFC0001234
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @2% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

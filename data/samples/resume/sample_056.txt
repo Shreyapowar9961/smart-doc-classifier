@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Arjun Sharma
+Email: arjun.sharma@gmail.com
+Phone: +91-7754603440
+LinkedIn: linkedin.com/in/arjunsharma
+GitHub: github.com/arjun232
+
+OBJECTIVE
+Motivated software engineer with 4+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+VIT Vellore, 2019–2023
+CGPA: 7.02/10
+
+SKILLS
+Technical Skills: SQL, Deep Learning, Flask, REST APIs, React
+Tools & Technologies: Machine Learning
+Languages: English (Fluent), Hindi, Kannada
+
+WORK EXPERIENCE
+
+Software Engineer | Accenture | 2023–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 37% through code optimization
+- Mentored 3 junior developers and conducted code reviews
+
+Intern | Infosys | 2022–2023
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+Hospital Management System
+- Built using React and Machine Learning
+- Achieved 97% accuracy in predictions
+- Deployed on Google Cloud
+
+CERTIFICATIONS
+- AWS Certified Developer
+- Oracle Java SE
+
+ACHIEVEMENTS
+- Dean's List 2021-22
+- CodeChef 3-star rated
+
+REFERENCES
+Available upon request

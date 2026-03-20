@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Arjun Sharma
+Email: arjun.sharma@gmail.com
+Phone: +91-9998961044
+LinkedIn: linkedin.com/in/arjunsharma
+GitHub: github.com/arjun596
+
+OBJECTIVE
+Motivated software engineer with 4+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+IIT Bombay, 2016–2020
+CGPA: 8.54/10
+
+SKILLS
+Technical Skills: Tableau, Keras, Docker, REST APIs, NumPy
+Tools & Technologies: Kubernetes, Pandas
+Languages: English (Fluent), Hindi, Marathi
+
+WORK EXPERIENCE
+
+Software Engineer | TCS | 2020–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 20% through code optimization
+- Mentored 3 junior developers and conducted code reviews
+
+Intern | HCL Technologies | 2019–2020
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+Hospital Management System
+- Built using Keras and Docker
+- Achieved 93% accuracy in predictions
+- Deployed on AWS EC2
+
+CERTIFICATIONS
+- Azure Fundamentals
+- Oracle Java SE
+
+ACHIEVEMENTS
+- Smart India Hackathon 2023 Finalist
+- CodeChef 3-star rated
+
+REFERENCES
+Available upon request

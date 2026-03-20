@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Vikram Nair
+Email: vikram.nair@gmail.com
+Phone: +91-9056061866
+LinkedIn: linkedin.com/in/vikramnair
+GitHub: github.com/vikram551
+
+OBJECTIVE
+Motivated software engineer with 4+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+Mumbai University, 2016–2020
+CGPA: 7.03/10
+
+SKILLS
+Technical Skills: Java, Power BI, Deep Learning, Azure, React
+Tools & Technologies: Kubernetes
+Languages: English (Fluent), Hindi, Telugu
+
+WORK EXPERIENCE
+
+Software Engineer | Infosys | 2020–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 25% through code optimization
+- Mentored 2 junior developers and conducted code reviews
+
+Intern | Amazon India | 2019–2020
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+E-commerce Recommendation Engine
+- Built using Azure and Java
+- Achieved 98% accuracy in predictions
+- Deployed on AWS EC2
+
+CERTIFICATIONS
+- Google Cloud Associate
+- Oracle Java SE
+
+ACHIEVEMENTS
+- Smart India Hackathon 2023 Finalist
+- Kaggle Expert
+
+REFERENCES
+Available upon request

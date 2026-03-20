@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Pooja Mehta
+Email: pooja.mehta@gmail.com
+Phone: +91-7415393687
+LinkedIn: linkedin.com/in/poojamehta
+GitHub: github.com/pooja467
+
+OBJECTIVE
+Motivated software engineer with 4+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+NIT Trichy, 2014–2018
+CGPA: 7.94/10
+
+SKILLS
+Technical Skills: Data Analysis, MongoDB, Pandas, Git, Machine Learning
+Tools & Technologies: Python, Node.js, Flask, TensorFlow, Linux
+Languages: English (Fluent), Hindi, Telugu
+
+WORK EXPERIENCE
+
+Software Engineer | TCS | 2018–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 39% through code optimization
+- Mentored 4 junior developers and conducted code reviews
+
+Intern | Microsoft India | 2017–2018
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+Smart Traffic Management System
+- Built using Flask and TensorFlow
+- Achieved 86% accuracy in predictions
+- Deployed on Azure
+
+CERTIFICATIONS
+- AWS Certified Developer
+- Scrum Master
+
+ACHIEVEMENTS
+- Best Paper Award at IEEE Conference
+- Kaggle Expert
+
+REFERENCES
+Available upon request

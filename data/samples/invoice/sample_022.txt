@@ -1,0 +1,47 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-7329
+Invoice Date: 27/10/2024
+Due Date: 22/10/2024
+Payment Terms: Net 30
+
+FROM:
+Mindtree
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@mindtree.com
+
+BILL TO:
+MNO Services Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  Cloud Infrastructure                        13        2000         26000
+  API Development                             44        2500        110000
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 136,000.00
+GST @12%:                                               INR  16,320.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 152,320.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: ICICI Bank
+Account Number: 92459325712
+IFSC Code: UTIB0003456
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @3% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Sneha Iyer
+Email: sneha.iyer@gmail.com
+Phone: +91-7566090561
+LinkedIn: linkedin.com/in/snehaiyer
+GitHub: github.com/sneha115
+
+OBJECTIVE
+Motivated software engineer with 1+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+NIT Trichy, 2014–2018
+CGPA: 9.24/10
+
+SKILLS
+Technical Skills: TensorFlow, REST APIs, React, Docker, Python
+Tools & Technologies: Machine Learning, GraphQL
+Languages: English (Fluent), Hindi, Telugu
+
+WORK EXPERIENCE
+
+Software Engineer | Mindtree | 2018–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 45% through code optimization
+- Mentored 3 junior developers and conducted code reviews
+
+Intern | HCL Technologies | 2017–2018
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+Hospital Management System
+- Built using React and TensorFlow
+- Achieved 87% accuracy in predictions
+- Deployed on Google Cloud
+
+CERTIFICATIONS
+- AWS Certified Developer
+- TensorFlow Developer Certificate
+
+ACHIEVEMENTS
+- Dean's List 2021-22
+- LeetCode 500+ problems solved
+
+REFERENCES
+Available upon request

@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Meera Joshi
+Email: meera.joshi@gmail.com
+Phone: +91-7428258482
+LinkedIn: linkedin.com/in/meerajoshi
+GitHub: github.com/meera638
+
+OBJECTIVE
+Motivated software engineer with 4+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+Manipal Institute of Technology, 2020–2024
+CGPA: 7.28/10
+
+SKILLS
+Technical Skills: scikit-learn, AWS, GraphQL, Kubernetes, React
+Tools & Technologies: NumPy, Java, Linux, Tableau
+Languages: English (Fluent), Hindi, Kannada
+
+WORK EXPERIENCE
+
+Software Engineer | Accenture | 2024–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 20% through code optimization
+- Mentored 3 junior developers and conducted code reviews
+
+Intern | Amazon India | 2023–2024
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+E-commerce Recommendation Engine
+- Built using GraphQL and AWS
+- Achieved 92% accuracy in predictions
+- Deployed on Google Cloud
+
+CERTIFICATIONS
+- Google Cloud Associate
+- Scrum Master
+
+ACHIEVEMENTS
+- Dean's List 2021-22
+- LeetCode 500+ problems solved
+
+REFERENCES
+Available upon request

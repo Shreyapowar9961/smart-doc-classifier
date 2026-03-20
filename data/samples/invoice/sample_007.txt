@@ -1,0 +1,50 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-1086
+Invoice Date: 9/4/2024
+Due Date: 27/3/2024
+Payment Terms: Net 30
+
+FROM:
+Flipkart
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@flipkart.com
+
+BILL TO:
+ABC Solutions Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  IT Consulting                              100        1500        150000
+  Data Analytics                              39         500         19500
+  Software Development Services               31        2000         62000
+  Security Audit                               9         500          4500
+  Security Audit                              77        2500        192500
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 428,500.00
+GST @5%:                                               INR  21,425.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 449,925.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: Kotak Mahindra
+Account Number: 42534581118
+IFSC Code: ICIC0005678
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @2% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

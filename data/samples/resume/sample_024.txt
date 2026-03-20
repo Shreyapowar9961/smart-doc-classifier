@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Ananya Das
+Email: ananya.das@gmail.com
+Phone: +91-8982979741
+LinkedIn: linkedin.com/in/ananyadas
+GitHub: github.com/ananya286
+
+OBJECTIVE
+Motivated software engineer with 2+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+Manipal Institute of Technology, 2017–2021
+CGPA: 7.24/10
+
+SKILLS
+Technical Skills: Linux, Node.js, Pandas, React, Docker
+Tools & Technologies: Power BI, Python, scikit-learn, Git
+Languages: English (Fluent), Hindi, Marathi
+
+WORK EXPERIENCE
+
+Software Engineer | Capgemini | 2021–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 28% through code optimization
+- Mentored 5 junior developers and conducted code reviews
+
+Intern | TechCorp India | 2020–2021
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+E-commerce Recommendation Engine
+- Built using React and scikit-learn
+- Achieved 90% accuracy in predictions
+- Deployed on Google Cloud
+
+CERTIFICATIONS
+- Google Cloud Associate
+- Oracle Java SE
+
+ACHIEVEMENTS
+- Best Paper Award at IEEE Conference
+- LeetCode 500+ problems solved
+
+REFERENCES
+Available upon request

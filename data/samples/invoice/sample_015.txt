@@ -1,0 +1,48 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-6692
+Invoice Date: 10/3/2024
+Due Date: 23/12/2024
+Payment Terms: Net 30
+
+FROM:
+IBM India
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@ibmindia.com
+
+BILL TO:
+ABC Services Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  API Development                             66        1000         66000
+  IT Consulting                               26        1000         26000
+  Data Analytics                              64         500         32000
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 124,000.00
+GST @12%:                                               INR  14,880.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 138,880.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: Kotak Mahindra
+Account Number: 59702553002
+IFSC Code: UTIB0003456
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @3% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

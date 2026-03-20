@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Karthik Reddy
+Email: karthik.reddy@gmail.com
+Phone: +91-7089578218
+LinkedIn: linkedin.com/in/karthikreddy
+GitHub: github.com/karthik432
+
+OBJECTIVE
+Motivated software engineer with 4+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+Anna University, 2014–2018
+CGPA: 8.17/10
+
+SKILLS
+Technical Skills: Pandas, C++, TensorFlow, Git, Data Analysis
+Tools & Technologies: REST APIs
+Languages: English (Fluent), Hindi, Tamil
+
+WORK EXPERIENCE
+
+Software Engineer | IBM India | 2018–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 45% through code optimization
+- Mentored 5 junior developers and conducted code reviews
+
+Intern | Capgemini | 2017–2018
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+Hospital Management System
+- Built using TensorFlow and Pandas
+- Achieved 91% accuracy in predictions
+- Deployed on AWS EC2
+
+CERTIFICATIONS
+- AWS Certified Developer
+- Oracle Java SE
+
+ACHIEVEMENTS
+- Dean's List 2021-22
+- LeetCode 500+ problems solved
+
+REFERENCES
+Available upon request

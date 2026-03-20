@@ -1,0 +1,49 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-9488
+Invoice Date: 6/6/2024
+Due Date: 23/4/2024
+Payment Terms: Net 30
+
+FROM:
+Wipro
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@wipro.com
+
+BILL TO:
+PQR Technologies Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  Mobile App Development                      37         500         18500
+  Machine Learning Implementation             26        5000        130000
+  Mobile App Development                      36        1000         36000
+  Machine Learning Implementation             79        2500        197500
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 382,000.00
+GST @5%:                                               INR  19,100.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 401,100.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: Kotak Mahindra
+Account Number: 34227856531
+IFSC Code: ICIC0005678
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @1% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

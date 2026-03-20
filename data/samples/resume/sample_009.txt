@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Vikram Nair
+Email: vikram.nair@gmail.com
+Phone: +91-8819256337
+LinkedIn: linkedin.com/in/vikramnair
+GitHub: github.com/vikram520
+
+OBJECTIVE
+Motivated software engineer with 3+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+Anna University, 2017–2021
+CGPA: 7.27/10
+
+SKILLS
+Technical Skills: SQL, Power BI, React, Linux, Git
+Tools & Technologies: REST APIs, NumPy, MongoDB, AWS
+Languages: English (Fluent), Hindi, Kannada
+
+WORK EXPERIENCE
+
+Software Engineer | TCS | 2021–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 47% through code optimization
+- Mentored 2 junior developers and conducted code reviews
+
+Intern | Infosys | 2020–2021
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+Hospital Management System
+- Built using Power BI and SQL
+- Achieved 91% accuracy in predictions
+- Deployed on Google Cloud
+
+CERTIFICATIONS
+- AWS Certified Developer
+- TensorFlow Developer Certificate
+
+ACHIEVEMENTS
+- Smart India Hackathon 2023 Finalist
+- CodeChef 3-star rated
+
+REFERENCES
+Available upon request

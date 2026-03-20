@@ -1,0 +1,49 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-3739
+Invoice Date: 10/8/2024
+Due Date: 26/2/2024
+Payment Terms: Net 30
+
+FROM:
+Cognizant
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@cognizant.com
+
+BILL TO:
+PQR Enterprises Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  Machine Learning Implementation             32        5000        160000
+  Security Audit                              77        2500        192500
+  Data Analytics                              59         500         29500
+  Cloud Infrastructure                        39         500         19500
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 401,500.00
+GST @12%:                                               INR  48,180.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 449,680.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: SBI
+Account Number: 95219080589
+IFSC Code: UTIB0003456
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @2% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

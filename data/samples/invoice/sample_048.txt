@@ -1,0 +1,47 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-3526
+Invoice Date: 11/6/2024
+Due Date: 4/2/2024
+Payment Terms: Net 30
+
+FROM:
+Cognizant
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@cognizant.com
+
+BILL TO:
+XYZ Enterprises Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  Machine Learning Implementation             57        1500         85500
+  Machine Learning Implementation             14        1000         14000
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR  99,500.00
+GST @5%:                                               INR   4,975.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 104,475.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: ICICI Bank
+Account Number: 71980585069
+IFSC Code: UTIB0003456
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @1% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

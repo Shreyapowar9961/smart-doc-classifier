@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Rohan Gupta
+Email: rohan.gupta@gmail.com
+Phone: +91-7730074215
+LinkedIn: linkedin.com/in/rohangupta
+GitHub: github.com/rohan279
+
+OBJECTIVE
+Motivated software engineer with 2+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+NIT Trichy, 2019–2023
+CGPA: 8.15/10
+
+SKILLS
+Technical Skills: Python, Java, TensorFlow, Django, Deep Learning
+Tools & Technologies: Keras, Azure, Data Analysis
+Languages: English (Fluent), Hindi, Marathi
+
+WORK EXPERIENCE
+
+Software Engineer | TCS | 2023–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 39% through code optimization
+- Mentored 5 junior developers and conducted code reviews
+
+Intern | Mindtree | 2022–2023
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+Hospital Management System
+- Built using Django and Data Analysis
+- Achieved 94% accuracy in predictions
+- Deployed on Heroku
+
+CERTIFICATIONS
+- AWS Certified Developer
+- Oracle Java SE
+
+ACHIEVEMENTS
+- Dean's List 2021-22
+- LeetCode 500+ problems solved
+
+REFERENCES
+Available upon request

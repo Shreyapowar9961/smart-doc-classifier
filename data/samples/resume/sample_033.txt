@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Amit Singh
+Email: amit.singh@gmail.com
+Phone: +91-9018258729
+LinkedIn: linkedin.com/in/amitsingh
+GitHub: github.com/amit398
+
+OBJECTIVE
+Motivated software engineer with 5+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+IIT Delhi, 2019–2023
+CGPA: 8.14/10
+
+SKILLS
+Technical Skills: Machine Learning, AWS, C++, Node.js, MongoDB
+Tools & Technologies: REST APIs, Power BI
+Languages: English (Fluent), Hindi, Marathi
+
+WORK EXPERIENCE
+
+Software Engineer | Wipro | 2023–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 27% through code optimization
+- Mentored 4 junior developers and conducted code reviews
+
+Intern | TechCorp India | 2022–2023
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+Hospital Management System
+- Built using C++ and REST APIs
+- Achieved 98% accuracy in predictions
+- Deployed on Azure
+
+CERTIFICATIONS
+- AWS Certified Developer
+- Scrum Master
+
+ACHIEVEMENTS
+- Smart India Hackathon 2023 Finalist
+- LeetCode 500+ problems solved
+
+REFERENCES
+Available upon request

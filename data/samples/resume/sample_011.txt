@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Karthik Reddy
+Email: karthik.reddy@gmail.com
+Phone: +91-9328710672
+LinkedIn: linkedin.com/in/karthikreddy
+GitHub: github.com/karthik162
+
+OBJECTIVE
+Motivated software engineer with 5+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+NIT Trichy, 2014–2018
+CGPA: 7.61/10
+
+SKILLS
+Technical Skills: GraphQL, Flask, Pandas, Deep Learning, Data Analysis
+Tools & Technologies: Azure, Power BI, NumPy
+Languages: English (Fluent), Hindi, Telugu
+
+WORK EXPERIENCE
+
+Software Engineer | TCS | 2018–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 21% through code optimization
+- Mentored 2 junior developers and conducted code reviews
+
+Intern | HCL Technologies | 2017–2018
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+Hospital Management System
+- Built using NumPy and Pandas
+- Achieved 85% accuracy in predictions
+- Deployed on AWS EC2
+
+CERTIFICATIONS
+- AWS Certified Developer
+- TensorFlow Developer Certificate
+
+ACHIEVEMENTS
+- Dean's List 2021-22
+- CodeChef 3-star rated
+
+REFERENCES
+Available upon request

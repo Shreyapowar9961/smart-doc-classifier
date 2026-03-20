@@ -1,0 +1,49 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-9920
+Invoice Date: 8/8/2024
+Due Date: 12/3/2024
+Payment Terms: Net 30
+
+FROM:
+Cognizant
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@cognizant.com
+
+BILL TO:
+MNO Technologies Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  Data Analytics                              93         500         46500
+  Software Development Services               85        2000        170000
+  Software Development Services               31        1000         31000
+  IT Consulting                               13        2500         32500
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 280,000.00
+GST @5%:                                               INR  14,000.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 294,000.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: Axis Bank
+Account Number: 40273834280
+IFSC Code: HDFC0001234
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @2% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

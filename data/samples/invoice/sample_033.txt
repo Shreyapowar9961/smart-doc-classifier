@@ -1,0 +1,48 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-2341
+Invoice Date: 3/10/2024
+Due Date: 4/1/2024
+Payment Terms: Net 30
+
+FROM:
+Mindtree
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@mindtree.com
+
+BILL TO:
+MNO Services Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  Mobile App Development                      20        1000         20000
+  API Development                             67        2000        134000
+  IT Consulting                               88        1000         88000
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 242,000.00
+GST @18%:                                               INR  43,560.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 285,560.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: Kotak Mahindra
+Account Number: 20689434745
+IFSC Code: UTIB0003456
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @1% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

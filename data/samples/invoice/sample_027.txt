@@ -1,0 +1,49 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-5480
+Invoice Date: 13/6/2024
+Due Date: 25/3/2024
+Payment Terms: Net 30
+
+FROM:
+HCL Technologies
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@hcltechnologies.com
+
+BILL TO:
+ABC Enterprises Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  Software Development Services               37        5000        185000
+  IT Consulting                               45        2000         90000
+  Machine Learning Implementation             96        2000        192000
+  Data Analytics                              26        2500         65000
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 532,000.00
+GST @12%:                                               INR  63,840.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 595,840.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: Kotak Mahindra
+Account Number: 47349771337
+IFSC Code: ICIC0005678
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @1% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

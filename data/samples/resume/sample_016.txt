@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Neha Agarwal
+Email: neha.agarwal@gmail.com
+Phone: +91-8145921803
+LinkedIn: linkedin.com/in/nehaagarwal
+GitHub: github.com/neha263
+
+OBJECTIVE
+Motivated software engineer with 2+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+Anna University, 2020–2024
+CGPA: 9.42/10
+
+SKILLS
+Technical Skills: GraphQL, Flask, Node.js, Data Analysis, Python
+Tools & Technologies: Django, TensorFlow
+Languages: English (Fluent), Hindi, Marathi
+
+WORK EXPERIENCE
+
+Software Engineer | Microsoft India | 2024–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 32% through code optimization
+- Mentored 2 junior developers and conducted code reviews
+
+Intern | Capgemini | 2023–2024
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+E-commerce Recommendation Engine
+- Built using Flask and Flask
+- Achieved 98% accuracy in predictions
+- Deployed on Azure
+
+CERTIFICATIONS
+- Google Cloud Associate
+- Oracle Java SE
+
+ACHIEVEMENTS
+- Smart India Hackathon 2023 Finalist
+- CodeChef 3-star rated
+
+REFERENCES
+Available upon request

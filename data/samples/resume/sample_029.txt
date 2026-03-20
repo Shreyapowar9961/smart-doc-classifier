@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Meera Joshi
+Email: meera.joshi@gmail.com
+Phone: +91-8584930775
+LinkedIn: linkedin.com/in/meerajoshi
+GitHub: github.com/meera584
+
+OBJECTIVE
+Motivated software engineer with 5+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+VIT Vellore, 2016–2020
+CGPA: 8.94/10
+
+SKILLS
+Technical Skills: REST APIs, MongoDB, Azure, NumPy, Kubernetes
+Tools & Technologies: GraphQL, Flask, Pandas, Python, C++
+Languages: English (Fluent), Hindi, Telugu
+
+WORK EXPERIENCE
+
+Software Engineer | TCS | 2020–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 33% through code optimization
+- Mentored 4 junior developers and conducted code reviews
+
+Intern | Cognizant | 2019–2020
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+E-commerce Recommendation Engine
+- Built using Pandas and Kubernetes
+- Achieved 89% accuracy in predictions
+- Deployed on Google Cloud
+
+CERTIFICATIONS
+- AWS Certified Developer
+- TensorFlow Developer Certificate
+
+ACHIEVEMENTS
+- Dean's List 2021-22
+- CodeChef 3-star rated
+
+REFERENCES
+Available upon request

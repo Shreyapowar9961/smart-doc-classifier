@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Meera Joshi
+Email: meera.joshi@gmail.com
+Phone: +91-9909184445
+LinkedIn: linkedin.com/in/meerajoshi
+GitHub: github.com/meera484
+
+OBJECTIVE
+Motivated software engineer with 5+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+VIT Vellore, 2016–2020
+CGPA: 7.07/10
+
+SKILLS
+Technical Skills: REST APIs, Keras, Node.js, Docker, Flask
+Tools & Technologies: Azure, JavaScript, GraphQL
+Languages: English (Fluent), Hindi, Kannada
+
+WORK EXPERIENCE
+
+Software Engineer | Infosys | 2020–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 50% through code optimization
+- Mentored 3 junior developers and conducted code reviews
+
+Intern | L&T Infotech | 2019–2020
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+Smart Traffic Management System
+- Built using Docker and Keras
+- Achieved 96% accuracy in predictions
+- Deployed on Google Cloud
+
+CERTIFICATIONS
+- Azure Fundamentals
+- Scrum Master
+
+ACHIEVEMENTS
+- Smart India Hackathon 2023 Finalist
+- Kaggle Expert
+
+REFERENCES
+Available upon request

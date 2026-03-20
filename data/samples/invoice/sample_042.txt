@@ -1,0 +1,49 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-4214
+Invoice Date: 19/4/2024
+Due Date: 16/9/2024
+Payment Terms: Net 30
+
+FROM:
+Accenture
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@accenture.com
+
+BILL TO:
+XYZ Enterprises Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  Machine Learning Implementation             98        2000        196000
+  Security Audit                              59        1000         59000
+  API Development                             22        1000         22000
+  Mobile App Development                      63        1000         63000
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 340,000.00
+GST @18%:                                               INR  61,200.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 401,200.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: HDFC Bank
+Account Number: 16545291437
+IFSC Code: HDFC0001234
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @3% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

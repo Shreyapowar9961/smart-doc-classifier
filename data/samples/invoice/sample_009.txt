@@ -1,0 +1,47 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-7338
+Invoice Date: 12/2/2024
+Due Date: 12/4/2024
+Payment Terms: Net 30
+
+FROM:
+Accenture
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@accenture.com
+
+BILL TO:
+PQR Solutions Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  API Development                             18         500          9000
+  API Development                             70        1500        105000
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 114,000.00
+GST @18%:                                               INR  20,520.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 134,520.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: ICICI Bank
+Account Number: 73070231369
+IFSC Code: UTIB0003456
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @3% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

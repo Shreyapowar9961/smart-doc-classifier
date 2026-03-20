@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Ravi Bhat
+Email: ravi.bhat@gmail.com
+Phone: +91-8948385094
+LinkedIn: linkedin.com/in/ravibhat
+GitHub: github.com/ravi479
+
+OBJECTIVE
+Motivated software engineer with 4+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+IIT Delhi, 2015–2019
+CGPA: 9.48/10
+
+SKILLS
+Technical Skills: Kubernetes, Data Analysis, JavaScript, React, Java
+Tools & Technologies: Linux, Deep Learning, NumPy
+Languages: English (Fluent), Hindi, Kannada
+
+WORK EXPERIENCE
+
+Software Engineer | Infosys | 2019–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 38% through code optimization
+- Mentored 3 junior developers and conducted code reviews
+
+Intern | TCS | 2018–2019
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+E-commerce Recommendation Engine
+- Built using Data Analysis and NumPy
+- Achieved 94% accuracy in predictions
+- Deployed on Azure
+
+CERTIFICATIONS
+- Google Cloud Associate
+- TensorFlow Developer Certificate
+
+ACHIEVEMENTS
+- Dean's List 2021-22
+- LeetCode 500+ problems solved
+
+REFERENCES
+Available upon request

@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Ravi Bhat
+Email: ravi.bhat@gmail.com
+Phone: +91-8620104855
+LinkedIn: linkedin.com/in/ravibhat
+GitHub: github.com/ravi566
+
+OBJECTIVE
+Motivated software engineer with 5+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+Mumbai University, 2018–2022
+CGPA: 7.97/10
+
+SKILLS
+Technical Skills: Machine Learning, Django, Python, Deep Learning, Linux
+Tools & Technologies: REST APIs, Git, AWS, NumPy, React
+Languages: English (Fluent), Hindi, Telugu
+
+WORK EXPERIENCE
+
+Software Engineer | Mindtree | 2022–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 47% through code optimization
+- Mentored 3 junior developers and conducted code reviews
+
+Intern | Mphasis | 2021–2022
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+Hospital Management System
+- Built using Deep Learning and React
+- Achieved 91% accuracy in predictions
+- Deployed on Heroku
+
+CERTIFICATIONS
+- Google Cloud Associate
+- TensorFlow Developer Certificate
+
+ACHIEVEMENTS
+- Best Paper Award at IEEE Conference
+- Kaggle Expert
+
+REFERENCES
+Available upon request

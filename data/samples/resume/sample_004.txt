@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Pooja Mehta
+Email: pooja.mehta@gmail.com
+Phone: +91-7983753977
+LinkedIn: linkedin.com/in/poojamehta
+GitHub: github.com/pooja941
+
+OBJECTIVE
+Motivated software engineer with 1+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+BITS Pilani, 2020–2024
+CGPA: 9.36/10
+
+SKILLS
+Technical Skills: Node.js, Pandas, scikit-learn, Machine Learning, Kubernetes
+Tools & Technologies: Azure, Power BI
+Languages: English (Fluent), Hindi, Marathi
+
+WORK EXPERIENCE
+
+Software Engineer | Capgemini | 2024–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 45% through code optimization
+- Mentored 4 junior developers and conducted code reviews
+
+Intern | Accenture | 2023–2024
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+E-commerce Recommendation Engine
+- Built using scikit-learn and Node.js
+- Achieved 88% accuracy in predictions
+- Deployed on Google Cloud
+
+CERTIFICATIONS
+- AWS Certified Developer
+- Scrum Master
+
+ACHIEVEMENTS
+- Best Paper Award at IEEE Conference
+- LeetCode 500+ problems solved
+
+REFERENCES
+Available upon request

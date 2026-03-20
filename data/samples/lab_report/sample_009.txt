@@ -1,0 +1,82 @@
+LABORATORY REPORT
+
+Experiment Name: Enzyme Kinetics — Effect of Temperature on Amylase
+Subject: Biology Lab
+Student Name: Ravi Bhat
+Roll Number: 208448
+Batch: A1
+Date of Experiment: 2/11/2024
+Date of Submission: 2/11/2024
+
+AIM / OBJECTIVE:
+To verify and study enzyme kinetics — effect of temperature on amylase and to understand the relationship between
+enzyme and substrate under controlled conditions.
+
+THEORY / BACKGROUND:
+Enzyme Kinetics — Effect of Temperature on Amylase is a fundamental concept in Biology. According to the theoretical framework,
+enzyme is directly proportional to substrate
+when rate remains constant. This relationship can be expressed
+mathematically and verified through controlled experimentation.
+
+APPARATUS / MATERIALS REQUIRED:
+1. Beaker (500mL)
+2. Breadboard
+3. Masses
+4. Stopwatch
+5. LED indicators
+
+PROCEDURE:
+1. Set up the apparatus as shown in the circuit/experimental diagram.
+2. Ensure all connections are secure and the circuit is properly grounded.
+3. Gradually vary enzyme from minimum to maximum range.
+4. For each setting, record the corresponding substrate.
+5. Repeat each reading 3 times to minimize random errors.
+6. Tabulate all observations carefully.
+7. Plot the graph of enzyme vs substrate.
+
+OBSERVATIONS:
+
+    S.No.     enzyme          substrate      
+    ────────────────────────────────────────
+    1         1.93          9.72
+    2         6.7          3.46
+    3         7.68          6.21
+    4         6.13          4.39
+    5         4.41          6.29
+    6         9.08          1.7
+    7         3.26          9.75
+
+CALCULATIONS:
+Mean value = 5.931
+Standard Deviation = 2.817
+Percentage Error = 4.05%
+
+GRAPH:
+A graph of enzyme vs substrate was plotted.
+The graph shows a linear relationship,
+confirming the theoretical prediction.
+
+RESULT:
+The experiment successfully verified Enzyme Kinetics — Effect of Temperature on Amylase. The experimentally obtained value of
+rate = 50.682 mol/L
+The theoretical value = 44.55
+Percentage error = 1.23%
+
+SOURCES OF ERROR:
+1. Instrumental errors due to limited precision of measuring instruments
+2. Random errors due to fluctuations in enzyme
+3. Human parallax error during reading
+4. Contact resistance in connections (for electrical experiments)
+
+CONCLUSION:
+The experiment was performed successfully. The results confirm the theoretical relationship
+between enzyme and substrate. The percentage
+error of 2.62% is within acceptable limits, indicating accurate
+experimental technique.
+
+PRECAUTIONS:
+1. All readings were taken after the instrument had stabilized.
+2. The experiment was conducted under constant room temperature (24°C).
+3. All glassware was cleaned and dried before use.
+
+Signature of Student: _______________     Signature of Lab Instructor: _______________

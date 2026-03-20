@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Meera Joshi
+Email: meera.joshi@gmail.com
+Phone: +91-8566166314
+LinkedIn: linkedin.com/in/meerajoshi
+GitHub: github.com/meera915
+
+OBJECTIVE
+Motivated software engineer with 3+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+Manipal Institute of Technology, 2014–2018
+CGPA: 8.2/10
+
+SKILLS
+Technical Skills: Azure, Data Analysis, Power BI, Python, JavaScript
+Tools & Technologies: C++, React, GraphQL, Java, Keras
+Languages: English (Fluent), Hindi, Marathi
+
+WORK EXPERIENCE
+
+Software Engineer | Mindtree | 2018–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 48% through code optimization
+- Mentored 4 junior developers and conducted code reviews
+
+Intern | Wipro | 2017–2018
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+Smart Traffic Management System
+- Built using Python and Data Analysis
+- Achieved 90% accuracy in predictions
+- Deployed on Azure
+
+CERTIFICATIONS
+- Azure Fundamentals
+- Scrum Master
+
+ACHIEVEMENTS
+- Smart India Hackathon 2023 Finalist
+- CodeChef 3-star rated
+
+REFERENCES
+Available upon request

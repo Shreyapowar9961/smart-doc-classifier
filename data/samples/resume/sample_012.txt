@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Amit Singh
+Email: amit.singh@gmail.com
+Phone: +91-8358798143
+LinkedIn: linkedin.com/in/amitsingh
+GitHub: github.com/amit367
+
+OBJECTIVE
+Motivated software engineer with 5+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+Manipal Institute of Technology, 2018–2022
+CGPA: 8.84/10
+
+SKILLS
+Technical Skills: scikit-learn, JavaScript, Git, MongoDB, GraphQL
+Tools & Technologies: Docker, Java
+Languages: English (Fluent), Hindi, Tamil
+
+WORK EXPERIENCE
+
+Software Engineer | Infosys | 2022–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 41% through code optimization
+- Mentored 4 junior developers and conducted code reviews
+
+Intern | Cognizant | 2021–2022
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+Smart Traffic Management System
+- Built using Git and MongoDB
+- Achieved 87% accuracy in predictions
+- Deployed on Google Cloud
+
+CERTIFICATIONS
+- Google Cloud Associate
+- Oracle Java SE
+
+ACHIEVEMENTS
+- Smart India Hackathon 2023 Finalist
+- CodeChef 3-star rated
+
+REFERENCES
+Available upon request

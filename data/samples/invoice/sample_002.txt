@@ -1,0 +1,50 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-6543
+Invoice Date: 3/6/2024
+Due Date: 4/9/2024
+Payment Terms: Net 30
+
+FROM:
+Capgemini
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@capgemini.com
+
+BILL TO:
+ABC Services Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  Machine Learning Implementation             33        5000        165000
+  Cloud Infrastructure                        43         500         21500
+  Cloud Infrastructure                        45        1500         67500
+  Database Administration                     17        2500         42500
+  IT Consulting                               40        2500        100000
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 396,500.00
+GST @12%:                                               INR  47,580.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 444,080.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: SBI
+Account Number: 30672471233
+IFSC Code: HDFC0001234
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @3% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

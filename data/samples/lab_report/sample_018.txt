@@ -1,0 +1,81 @@
+LABORATORY REPORT
+
+Experiment Name: Simple Harmonic Motion Analysis
+Subject: Physics Lab
+Student Name: Meera Joshi
+Roll Number: 203996
+Batch: C1
+Date of Experiment: 9/7/2024
+Date of Submission: 9/7/2024
+
+AIM / OBJECTIVE:
+To verify and study simple harmonic motion analysis and to understand the relationship between
+oscillation and frequency under controlled conditions.
+
+THEORY / BACKGROUND:
+Simple Harmonic Motion Analysis is a fundamental concept in Physics. According to the theoretical framework,
+oscillation is directly proportional to frequency
+when amplitude remains constant. This relationship can be expressed
+mathematically and verified through controlled experimentation.
+
+APPARATUS / MATERIALS REQUIRED:
+1. Oscilloscope
+2. Connecting wires
+3. Resistors (various values)
+4. pH meter
+5. LED indicators
+
+PROCEDURE:
+1. Set up the apparatus as shown in the circuit/experimental diagram.
+2. Ensure all connections are secure and the circuit is properly grounded.
+3. Gradually vary oscillation from minimum to maximum range.
+4. For each setting, record the corresponding frequency.
+5. Repeat each reading 4 times to minimize random errors.
+6. Tabulate all observations carefully.
+7. Plot the graph of oscillation vs frequency.
+
+OBSERVATIONS:
+
+    S.No.     oscillation     frequency      
+    ────────────────────────────────────────
+    1         7.75          2.15
+    2         5.73          4.81
+    3         9.46          1.29
+    4         4.13          8.74
+    5         7.98          5.11
+    6         2.08          5.66
+
+CALCULATIONS:
+Mean value = 4.627
+Standard Deviation = 2.433
+Percentage Error = 0.9%
+
+GRAPH:
+A graph of oscillation vs frequency was plotted.
+The graph shows a sinusoidal relationship,
+confirming the theoretical prediction.
+
+RESULT:
+The experiment successfully verified Simple Harmonic Motion Analysis. The experimentally obtained value of
+amplitude = 61.665 N/m
+The theoretical value = 19.528
+Percentage error = 1.39%
+
+SOURCES OF ERROR:
+1. Instrumental errors due to limited precision of measuring instruments
+2. Random errors due to fluctuations in oscillation
+3. Human parallax error during reading
+4. Contact resistance in connections (for electrical experiments)
+
+CONCLUSION:
+The experiment was performed successfully. The results confirm the theoretical relationship
+between oscillation and frequency. The percentage
+error of 1.42% is within acceptable limits, indicating accurate
+experimental technique.
+
+PRECAUTIONS:
+1. All readings were taken after the instrument had stabilized.
+2. The experiment was conducted under constant room temperature (26°C).
+3. All glassware was cleaned and dried before use.
+
+Signature of Student: _______________     Signature of Lab Instructor: _______________

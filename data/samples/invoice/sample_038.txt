@@ -1,0 +1,49 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-6642
+Invoice Date: 23/7/2024
+Due Date: 14/3/2024
+Payment Terms: Net 30
+
+FROM:
+Capgemini
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@capgemini.com
+
+BILL TO:
+MNO Services Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  Database Administration                     24        2500         60000
+  Security Audit                              31        1000         31000
+  Machine Learning Implementation             91        1000         91000
+  Security Audit                               8        2500         20000
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 202,000.00
+GST @12%:                                               INR  24,240.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 226,240.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: Axis Bank
+Account Number: 81113005121
+IFSC Code: ICIC0005678
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @2% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

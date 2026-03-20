@@ -1,0 +1,108 @@
+OPERATING SYSTEMS — LECTURE NOTES
+Unit 3: Process Management
+Date: 4/5/2024
+
+============================================================
+CHAPTER OVERVIEW
+============================================================
+
+This unit covers fundamental concepts of process in the context of operating systems.
+By the end of this unit, students should be able to:
+• Explain the concept of process and its significance
+• Differentiate between thread and scheduling
+• Apply theoretical concepts to solve problems
+• Analyze real-world scenarios involving process
+
+────────────────────────────────────────────────────────────
+TOPIC 1: INTRODUCTION TO PROCESS
+────────────────────────────────────────────────────────────
+
+Definition:
+A process is defined as an algorithm that systematically explores nodes in a graph structure.
+
+Key Properties:
+1. Efficiency — must satisfy all process requirements
+2. Consistency — performance under increasing load
+3. Isolation — behavior in failure scenarios
+
+Example:
+Consider a system with 5 processes/nodes. The process operates
+as follows:
+Step 1: Initialize the process with default parameters
+Step 2: Apply thread to determine priority/order
+Step 3: Execute the operation while maintaining scheduling invariants
+Step 4: Verify correctness using post-conditions
+
+────────────────────────────────────────────────────────────
+TOPIC 2: THREAD VS SCHEDULING
+────────────────────────────────────────────────────────────
+
+Comparison Table:
+┌─────────────────┬───────────────────────┬───────────────────────┐
+│ Parameter        │ thread                │ scheduling            │
+├─────────────────┼───────────────────────┼───────────────────────┤
+│ Complexity      │ O(n log n)            │ O(n²)                 │
+│ Space           │ O(n)                  │ O(1)                  │
+│ Use Case        │ Large datasets        │ Small datasets        │
+│ Stability       │ Stable                │ Not stable            │
+└─────────────────┴───────────────────────┴───────────────────────┘
+
+Important Note: thread is preferred when stability of equal elements must be preserved.
+
+────────────────────────────────────────────────────────────
+TOPIC 3: ALGORITHMS & COMPLEXITY ANALYSIS
+────────────────────────────────────────────────────────────
+
+Algorithm — Process:
+```
+function process(input):
+    if input is empty:
+        return null
+    
+    result = initialize()
+    for each element in input:
+        process(element)
+        update(result)
+    
+    return result
+```
+
+Time Complexity: O(log n)
+Space Complexity: O(n²)
+Best Case: O(log n)
+Worst Case: O(n)
+
+────────────────────────────────────────────────────────────
+PRACTICE QUESTIONS
+────────────────────────────────────────────────────────────
+
+1. [2 marks] Define process and list its properties.
+
+2. [4 marks] Compare and contrast thread with scheduling using suitable examples.
+
+3. [6 marks] Given a scenario with 6 concurrent operations, trace the execution
+   of process step by step.
+
+4. [8 marks] Design an efficient algorithm using process for the following problem:
+   [Problem description with constraints and expected output]
+
+5. [Previous Year Question 2022] Explain the trade-offs between thread and
+   scheduling. When would you choose one over the other? (8 marks)
+
+────────────────────────────────────────────────────────────
+IMPORTANT FORMULAE
+────────────────────────────────────────────────────────────
+
+1. Efficiency = (Useful Work Done) / (Total Resources Used)
+2. Throughput = (Number of Processes Completed) / (Time Period)  
+3. Waiting Time = Completion Time - Burst Time - Arrival Time
+4. Turnaround Time = Completion Time - Arrival Time
+
+────────────────────────────────────────────────────────────
+REFERENCES
+────────────────────────────────────────────────────────────
+
+1. Silberschatz, Galvin, Gagne — "Operating Systems", 10th Edition, Wiley
+2. NPTEL Video Lectures — Operating Systems by Prof. Pooja Mehta, IIT Delhi
+3. GeeksForGeeks — process tutorials
+4. Previous year question papers — Pune University 2022

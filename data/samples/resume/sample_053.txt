@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Neha Agarwal
+Email: neha.agarwal@gmail.com
+Phone: +91-8503728142
+LinkedIn: linkedin.com/in/nehaagarwal
+GitHub: github.com/neha965
+
+OBJECTIVE
+Motivated software engineer with 1+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+IIIT Hyderabad, 2015–2019
+CGPA: 8.84/10
+
+SKILLS
+Technical Skills: Flask, Linux, Java, Deep Learning, Docker
+Tools & Technologies: REST APIs, Keras, JavaScript, Git
+Languages: English (Fluent), Hindi, Telugu
+
+WORK EXPERIENCE
+
+Software Engineer | TCS | 2019–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 23% through code optimization
+- Mentored 4 junior developers and conducted code reviews
+
+Intern | Wipro | 2018–2019
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+Hospital Management System
+- Built using Deep Learning and Keras
+- Achieved 98% accuracy in predictions
+- Deployed on AWS EC2
+
+CERTIFICATIONS
+- Azure Fundamentals
+- Scrum Master
+
+ACHIEVEMENTS
+- Dean's List 2021-22
+- LeetCode 500+ problems solved
+
+REFERENCES
+Available upon request

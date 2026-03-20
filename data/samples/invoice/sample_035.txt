@@ -1,0 +1,50 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-7698
+Invoice Date: 12/7/2024
+Due Date: 15/7/2024
+Payment Terms: Net 30
+
+FROM:
+Wipro
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@wipro.com
+
+BILL TO:
+XYZ Enterprises Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  IT Consulting                               88        5000        440000
+  Mobile App Development                      18        5000         90000
+  API Development                             16        1000         16000
+  Mobile App Development                      51        2500        127500
+  Cloud Infrastructure                        94        1000         94000
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 767,500.00
+GST @5%:                                               INR  38,375.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 805,875.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: HDFC Bank
+Account Number: 52857291156
+IFSC Code: UTIB0003456
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @3% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

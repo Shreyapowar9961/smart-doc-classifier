@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Suresh Pillai
+Email: suresh.pillai@gmail.com
+Phone: +91-9155192095
+LinkedIn: linkedin.com/in/sureshpillai
+GitHub: github.com/suresh379
+
+OBJECTIVE
+Motivated software engineer with 5+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+NIT Trichy, 2016–2020
+CGPA: 9.2/10
+
+SKILLS
+Technical Skills: Java, Git, Keras, Linux, React
+Tools & Technologies: C++, Deep Learning, TensorFlow, Data Analysis
+Languages: English (Fluent), Hindi, Tamil
+
+WORK EXPERIENCE
+
+Software Engineer | TCS | 2020–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 28% through code optimization
+- Mentored 5 junior developers and conducted code reviews
+
+Intern | Wipro | 2019–2020
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+E-commerce Recommendation Engine
+- Built using C++ and Git
+- Achieved 92% accuracy in predictions
+- Deployed on AWS EC2
+
+CERTIFICATIONS
+- AWS Certified Developer
+- TensorFlow Developer Certificate
+
+ACHIEVEMENTS
+- Dean's List 2021-22
+- Kaggle Expert
+
+REFERENCES
+Available upon request

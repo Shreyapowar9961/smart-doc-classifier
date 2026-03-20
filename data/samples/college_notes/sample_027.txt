@@ -1,0 +1,108 @@
+DATA STRUCTURES AND ALGORITHMS — LECTURE NOTES
+Unit 2: Trees and Graphs
+Date: 15/6/2024
+
+============================================================
+CHAPTER OVERVIEW
+============================================================
+
+This unit covers fundamental concepts of binary tree in the context of data structures and algorithms.
+By the end of this unit, students should be able to:
+• Explain the concept of binary tree and its significance
+• Differentiate between BFS and DFS
+• Apply theoretical concepts to solve problems
+• Analyze real-world scenarios involving binary tree
+
+────────────────────────────────────────────────────────────
+TOPIC 1: INTRODUCTION TO BINARY TREE
+────────────────────────────────────────────────────────────
+
+Definition:
+A binary tree is defined as a mechanism for managing shared resources in a concurrent environment.
+
+Key Properties:
+1. Efficiency — must satisfy all binary tree requirements
+2. Consistency — performance under increasing load
+3. Isolation — behavior in failure scenarios
+
+Example:
+Consider a system with 7 processes/nodes. The binary tree operates
+as follows:
+Step 1: Initialize the binary tree with default parameters
+Step 2: Apply BFS to determine priority/order
+Step 3: Execute the operation while maintaining DFS invariants
+Step 4: Verify correctness using post-conditions
+
+────────────────────────────────────────────────────────────
+TOPIC 2: BFS VS DFS
+────────────────────────────────────────────────────────────
+
+Comparison Table:
+┌─────────────────┬───────────────────────┬───────────────────────┐
+│ Parameter        │ BFS                   │ DFS                   │
+├─────────────────┼───────────────────────┼───────────────────────┤
+│ Complexity      │ O(n log n)            │ O(n²)                 │
+│ Space           │ O(n)                  │ O(1)                  │
+│ Use Case        │ Large datasets        │ Small datasets        │
+│ Stability       │ Stable                │ Not stable            │
+└─────────────────┴───────────────────────┴───────────────────────┘
+
+Important Note: BFS is preferred when data is already partially sorted.
+
+────────────────────────────────────────────────────────────
+TOPIC 3: ALGORITHMS & COMPLEXITY ANALYSIS
+────────────────────────────────────────────────────────────
+
+Algorithm — Binary Tree:
+```
+function binary_tree(input):
+    if input is empty:
+        return null
+    
+    result = initialize()
+    for each element in input:
+        process(element)
+        update(result)
+    
+    return result
+```
+
+Time Complexity: O(n)
+Space Complexity: O(n²)
+Best Case: O(log n)
+Worst Case: O(n)
+
+────────────────────────────────────────────────────────────
+PRACTICE QUESTIONS
+────────────────────────────────────────────────────────────
+
+1. [2 marks] Define binary tree and list its properties.
+
+2. [4 marks] Compare and contrast BFS with DFS using suitable examples.
+
+3. [6 marks] Given a scenario with 4 concurrent operations, trace the execution
+   of binary tree step by step.
+
+4. [8 marks] Design an efficient algorithm using binary tree for the following problem:
+   [Problem description with constraints and expected output]
+
+5. [Previous Year Question 2022] Explain the trade-offs between BFS and
+   DFS. When would you choose one over the other? (8 marks)
+
+────────────────────────────────────────────────────────────
+IMPORTANT FORMULAE
+────────────────────────────────────────────────────────────
+
+1. Efficiency = (Useful Work Done) / (Total Resources Used)
+2. Throughput = (Number of Processes Completed) / (Time Period)  
+3. Waiting Time = Completion Time - Burst Time - Arrival Time
+4. Turnaround Time = Completion Time - Arrival Time
+
+────────────────────────────────────────────────────────────
+REFERENCES
+────────────────────────────────────────────────────────────
+
+1. Silberschatz, Galvin, Gagne — "Data Structures and Algorithms", 10th Edition, Wiley
+2. NPTEL Video Lectures — Data Structures and Algorithms by Prof. Suresh Pillai, IIT Madras
+3. GeeksForGeeks — binary tree tutorials
+4. Previous year question papers — Amity University 2021

@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Vikram Nair
+Email: vikram.nair@gmail.com
+Phone: +91-9607324296
+LinkedIn: linkedin.com/in/vikramnair
+GitHub: github.com/vikram921
+
+OBJECTIVE
+Motivated software engineer with 2+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+Manipal Institute of Technology, 2016–2020
+CGPA: 9.33/10
+
+SKILLS
+Technical Skills: Python, Django, AWS, scikit-learn, Machine Learning
+Tools & Technologies: Flask, Git, Java
+Languages: English (Fluent), Hindi, Telugu
+
+WORK EXPERIENCE
+
+Software Engineer | IBM India | 2020–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 27% through code optimization
+- Mentored 3 junior developers and conducted code reviews
+
+Intern | Mphasis | 2019–2020
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+Hospital Management System
+- Built using Machine Learning and AWS
+- Achieved 95% accuracy in predictions
+- Deployed on AWS EC2
+
+CERTIFICATIONS
+- Azure Fundamentals
+- Scrum Master
+
+ACHIEVEMENTS
+- Smart India Hackathon 2023 Finalist
+- LeetCode 500+ problems solved
+
+REFERENCES
+Available upon request

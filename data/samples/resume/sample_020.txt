@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Meera Joshi
+Email: meera.joshi@gmail.com
+Phone: +91-7964824319
+LinkedIn: linkedin.com/in/meerajoshi
+GitHub: github.com/meera925
+
+OBJECTIVE
+Motivated software engineer with 3+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+Pune University, 2015–2019
+CGPA: 9.67/10
+
+SKILLS
+Technical Skills: AWS, C++, Deep Learning, Tableau, Flask
+Tools & Technologies: Kubernetes, Docker
+Languages: English (Fluent), Hindi, Tamil
+
+WORK EXPERIENCE
+
+Software Engineer | Infosys | 2019–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 24% through code optimization
+- Mentored 2 junior developers and conducted code reviews
+
+Intern | Amazon India | 2018–2019
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+Smart Traffic Management System
+- Built using C++ and Tableau
+- Achieved 94% accuracy in predictions
+- Deployed on AWS EC2
+
+CERTIFICATIONS
+- Google Cloud Associate
+- Oracle Java SE
+
+ACHIEVEMENTS
+- Dean's List 2021-22
+- Kaggle Expert
+
+REFERENCES
+Available upon request

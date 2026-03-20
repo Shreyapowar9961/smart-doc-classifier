@@ -1,0 +1,48 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-9233
+Invoice Date: 21/5/2024
+Due Date: 12/10/2024
+Payment Terms: Net 30
+
+FROM:
+Flipkart
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@flipkart.com
+
+BILL TO:
+PQR Solutions Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  Data Analytics                              18        2000         36000
+  Cloud Infrastructure                        59        5000        295000
+  API Development                             54        5000        270000
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 601,000.00
+GST @18%:                                               INR 108,180.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 709,180.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: Axis Bank
+Account Number: 86267239754
+IFSC Code: ICIC0005678
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @1% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

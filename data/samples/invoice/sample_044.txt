@@ -1,0 +1,50 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-1274
+Invoice Date: 1/9/2024
+Due Date: 27/12/2024
+Payment Terms: Net 30
+
+FROM:
+Mindtree
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@mindtree.com
+
+BILL TO:
+PQR Services Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  Cloud Infrastructure                        14         500          7000
+  Mobile App Development                      20        1000         20000
+  Data Analytics                              80        2500        200000
+  Machine Learning Implementation             46        1500         69000
+  Database Administration                     11        1500         16500
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 312,500.00
+GST @12%:                                               INR  37,500.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 350,000.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: Axis Bank
+Account Number: 42491436991
+IFSC Code: ICIC0005678
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @2% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

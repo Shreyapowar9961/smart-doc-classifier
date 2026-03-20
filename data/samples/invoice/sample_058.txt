@@ -1,0 +1,48 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-3194
+Invoice Date: 10/2/2024
+Due Date: 6/6/2024
+Payment Terms: Net 30
+
+FROM:
+Accenture
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@accenture.com
+
+BILL TO:
+ABC Technologies Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  Mobile App Development                      50        2000        100000
+  Cloud Infrastructure                        74        2000        148000
+  Database Administration                     24        2000         48000
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 296,000.00
+GST @18%:                                               INR  53,280.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 349,280.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: Kotak Mahindra
+Account Number: 35769372367
+IFSC Code: ICIC0005678
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @2% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

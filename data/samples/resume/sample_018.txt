@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Rahul Verma
+Email: rahul.verma@gmail.com
+Phone: +91-8564319318
+LinkedIn: linkedin.com/in/rahulverma
+GitHub: github.com/rahul541
+
+OBJECTIVE
+Motivated software engineer with 2+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+Anna University, 2018–2022
+CGPA: 9.59/10
+
+SKILLS
+Technical Skills: scikit-learn, Git, SQL, Machine Learning, Java
+Tools & Technologies: Azure
+Languages: English (Fluent), Hindi, Marathi
+
+WORK EXPERIENCE
+
+Software Engineer | TechCorp India | 2022–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 50% through code optimization
+- Mentored 4 junior developers and conducted code reviews
+
+Intern | Mindtree | 2021–2022
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+Hospital Management System
+- Built using SQL and Azure
+- Achieved 98% accuracy in predictions
+- Deployed on AWS EC2
+
+CERTIFICATIONS
+- Azure Fundamentals
+- Oracle Java SE
+
+ACHIEVEMENTS
+- Dean's List 2021-22
+- LeetCode 500+ problems solved
+
+REFERENCES
+Available upon request

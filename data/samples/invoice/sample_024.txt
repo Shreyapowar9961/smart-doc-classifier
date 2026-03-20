@@ -1,0 +1,47 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-6427
+Invoice Date: 19/5/2024
+Due Date: 26/12/2024
+Payment Terms: Net 30
+
+FROM:
+Capgemini
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@capgemini.com
+
+BILL TO:
+ABC Enterprises Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  Security Audit                              34        5000        170000
+  Data Analytics                              93         500         46500
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 216,500.00
+GST @18%:                                               INR  38,970.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 255,470.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: Axis Bank
+Account Number: 79451820467
+IFSC Code: UTIB0003456
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @1% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

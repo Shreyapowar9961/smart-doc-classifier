@@ -1,0 +1,47 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-8032
+Invoice Date: 19/7/2024
+Due Date: 6/11/2024
+Payment Terms: Net 30
+
+FROM:
+TechCorp India
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@techcorpindia.com
+
+BILL TO:
+PQR Technologies Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  Mobile App Development                      47         500         23500
+  Mobile App Development                      70        2500        175000
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 198,500.00
+GST @18%:                                               INR  35,730.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 234,230.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: Kotak Mahindra
+Account Number: 61626942721
+IFSC Code: UTIB0003456
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @1% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Suresh Pillai
+Email: suresh.pillai@gmail.com
+Phone: +91-7925861658
+LinkedIn: linkedin.com/in/sureshpillai
+GitHub: github.com/suresh873
+
+OBJECTIVE
+Motivated software engineer with 3+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+SRM University, 2017–2021
+CGPA: 8.7/10
+
+SKILLS
+Technical Skills: Docker, C++, Java, React, Node.js
+Tools & Technologies: Flask, GraphQL, Django, Machine Learning, Pandas
+Languages: English (Fluent), Hindi, Marathi
+
+WORK EXPERIENCE
+
+Software Engineer | Cognizant | 2021–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 31% through code optimization
+- Mentored 5 junior developers and conducted code reviews
+
+Intern | Mphasis | 2020–2021
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+Smart Traffic Management System
+- Built using Node.js and Pandas
+- Achieved 92% accuracy in predictions
+- Deployed on Google Cloud
+
+CERTIFICATIONS
+- AWS Certified Developer
+- TensorFlow Developer Certificate
+
+ACHIEVEMENTS
+- Best Paper Award at IEEE Conference
+- Kaggle Expert
+
+REFERENCES
+Available upon request

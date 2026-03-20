@@ -1,0 +1,47 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-4555
+Invoice Date: 10/1/2024
+Due Date: 7/4/2024
+Payment Terms: Net 30
+
+FROM:
+Mphasis
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@mphasis.com
+
+BILL TO:
+XYZ Services Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  Security Audit                              32        5000        160000
+  Data Analytics                              51        1000         51000
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 211,000.00
+GST @18%:                                               INR  37,980.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 248,980.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: SBI
+Account Number: 51985512446
+IFSC Code: UTIB0003456
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @2% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

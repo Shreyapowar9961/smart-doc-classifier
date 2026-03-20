@@ -1,0 +1,49 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-1424
+Invoice Date: 17/7/2024
+Due Date: 18/2/2024
+Payment Terms: Net 30
+
+FROM:
+IBM India
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@ibmindia.com
+
+BILL TO:
+XYZ Enterprises Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  Machine Learning Implementation             91        2000        182000
+  Data Analytics                              79        1500        118500
+  Security Audit                              26         500         13000
+  Cloud Infrastructure                        10        2000         20000
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 333,500.00
+GST @5%:                                               INR  16,675.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 350,175.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: Axis Bank
+Account Number: 22873144022
+IFSC Code: SBIN0009012
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @3% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

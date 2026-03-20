@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Karthik Reddy
+Email: karthik.reddy@gmail.com
+Phone: +91-9048612358
+LinkedIn: linkedin.com/in/karthikreddy
+GitHub: github.com/karthik106
+
+OBJECTIVE
+Motivated software engineer with 4+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+Amity University, 2018–2022
+CGPA: 9.47/10
+
+SKILLS
+Technical Skills: Power BI, Pandas, Data Analysis, Java, SQL
+Tools & Technologies: GraphQL, scikit-learn, Git
+Languages: English (Fluent), Hindi, Telugu
+
+WORK EXPERIENCE
+
+Software Engineer | TechCorp India | 2022–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 29% through code optimization
+- Mentored 5 junior developers and conducted code reviews
+
+Intern | Amazon India | 2021–2022
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+E-commerce Recommendation Engine
+- Built using Java and Git
+- Achieved 88% accuracy in predictions
+- Deployed on Google Cloud
+
+CERTIFICATIONS
+- Google Cloud Associate
+- Oracle Java SE
+
+ACHIEVEMENTS
+- Smart India Hackathon 2023 Finalist
+- LeetCode 500+ problems solved
+
+REFERENCES
+Available upon request

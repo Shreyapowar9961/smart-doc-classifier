@@ -1,0 +1,108 @@
+SOFTWARE ENGINEERING — LECTURE NOTES
+Unit 3: Design Patterns
+Date: 12/1/2024
+
+============================================================
+CHAPTER OVERVIEW
+============================================================
+
+This unit covers fundamental concepts of MVC in the context of software engineering.
+By the end of this unit, students should be able to:
+• Explain the concept of MVC and its significance
+• Differentiate between singleton and factory
+• Apply theoretical concepts to solve problems
+• Analyze real-world scenarios involving MVC
+
+────────────────────────────────────────────────────────────
+TOPIC 1: INTRODUCTION TO MVC
+────────────────────────────────────────────────────────────
+
+Definition:
+A MVC is defined as an abstract data structure that maintains a hierarchical relationship.
+
+Key Properties:
+1. Efficiency — must satisfy all MVC requirements
+2. Consistency — performance under increasing load
+3. Durability — behavior in failure scenarios
+
+Example:
+Consider a system with 7 processes/nodes. The MVC operates
+as follows:
+Step 1: Initialize the MVC with default parameters
+Step 2: Apply singleton to determine priority/order
+Step 3: Execute the operation while maintaining factory invariants
+Step 4: Verify correctness using post-conditions
+
+────────────────────────────────────────────────────────────
+TOPIC 2: SINGLETON VS FACTORY
+────────────────────────────────────────────────────────────
+
+Comparison Table:
+┌─────────────────┬───────────────────────┬───────────────────────┐
+│ Parameter        │ singleton             │ factory               │
+├─────────────────┼───────────────────────┼───────────────────────┤
+│ Complexity      │ O(n log n)            │ O(n²)                 │
+│ Space           │ O(n)                  │ O(1)                  │
+│ Use Case        │ Large datasets        │ Small datasets        │
+│ Stability       │ Stable                │ Not stable            │
+└─────────────────┴───────────────────────┴───────────────────────┘
+
+Important Note: singleton is preferred when data is already partially sorted.
+
+────────────────────────────────────────────────────────────
+TOPIC 3: ALGORITHMS & COMPLEXITY ANALYSIS
+────────────────────────────────────────────────────────────
+
+Algorithm — Mvc:
+```
+function MVC(input):
+    if input is empty:
+        return null
+    
+    result = initialize()
+    for each element in input:
+        process(element)
+        update(result)
+    
+    return result
+```
+
+Time Complexity: O(n)
+Space Complexity: O(log n)
+Best Case: O(1)
+Worst Case: O(n)
+
+────────────────────────────────────────────────────────────
+PRACTICE QUESTIONS
+────────────────────────────────────────────────────────────
+
+1. [2 marks] Define MVC and list its properties.
+
+2. [4 marks] Compare and contrast singleton with factory using suitable examples.
+
+3. [6 marks] Given a scenario with 7 concurrent operations, trace the execution
+   of MVC step by step.
+
+4. [8 marks] Design an efficient algorithm using MVC for the following problem:
+   [Problem description with constraints and expected output]
+
+5. [Previous Year Question 2022] Explain the trade-offs between singleton and
+   factory. When would you choose one over the other? (8 marks)
+
+────────────────────────────────────────────────────────────
+IMPORTANT FORMULAE
+────────────────────────────────────────────────────────────
+
+1. Efficiency = (Useful Work Done) / (Total Resources Used)
+2. Throughput = (Number of Processes Completed) / (Time Period)  
+3. Waiting Time = Completion Time - Burst Time - Arrival Time
+4. Turnaround Time = Completion Time - Arrival Time
+
+────────────────────────────────────────────────────────────
+REFERENCES
+────────────────────────────────────────────────────────────
+
+1. Silberschatz, Galvin, Gagne — "Software Engineering", 10th Edition, Wiley
+2. NPTEL Video Lectures — Software Engineering by Prof. Sneha Iyer, IIT Madras
+3. GeeksForGeeks — MVC tutorials
+4. Previous year question papers — Manipal Institute of Technology 2018

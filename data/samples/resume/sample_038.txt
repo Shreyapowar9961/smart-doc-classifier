@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Neha Agarwal
+Email: neha.agarwal@gmail.com
+Phone: +91-9028168523
+LinkedIn: linkedin.com/in/nehaagarwal
+GitHub: github.com/neha349
+
+OBJECTIVE
+Motivated software engineer with 4+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+VIT Vellore, 2020–2024
+CGPA: 7.77/10
+
+SKILLS
+Technical Skills: Pandas, JavaScript, Kubernetes, React, NumPy
+Tools & Technologies: Azure
+Languages: English (Fluent), Hindi, Kannada
+
+WORK EXPERIENCE
+
+Software Engineer | Mindtree | 2024–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 37% through code optimization
+- Mentored 3 junior developers and conducted code reviews
+
+Intern | IBM India | 2023–2024
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+E-commerce Recommendation Engine
+- Built using JavaScript and NumPy
+- Achieved 93% accuracy in predictions
+- Deployed on Heroku
+
+CERTIFICATIONS
+- AWS Certified Developer
+- Oracle Java SE
+
+ACHIEVEMENTS
+- Best Paper Award at IEEE Conference
+- LeetCode 500+ problems solved
+
+REFERENCES
+Available upon request

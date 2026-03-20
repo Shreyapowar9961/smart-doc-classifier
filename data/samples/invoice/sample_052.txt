@@ -1,0 +1,50 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-4273
+Invoice Date: 24/8/2024
+Due Date: 23/4/2024
+Payment Terms: Net 30
+
+FROM:
+L&T Infotech
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@l&tinfotech.com
+
+BILL TO:
+XYZ Solutions Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  Machine Learning Implementation             89         500         44500
+  Database Administration                     87        2000        174000
+  Cloud Infrastructure                        82        1500        123000
+  Data Analytics                              33        5000        165000
+  Cloud Infrastructure                        92        2000        184000
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 690,500.00
+GST @12%:                                               INR  82,860.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 773,360.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: HDFC Bank
+Account Number: 76992615786
+IFSC Code: UTIB0003456
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @3% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

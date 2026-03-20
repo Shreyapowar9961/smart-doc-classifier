@@ -1,0 +1,50 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-1430
+Invoice Date: 20/10/2024
+Due Date: 26/6/2024
+Payment Terms: Net 30
+
+FROM:
+Infosys
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@infosys.com
+
+BILL TO:
+PQR Solutions Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  Software Development Services               38        2000         76000
+  Database Administration                    100         500         50000
+  Mobile App Development                      32        2500         80000
+  Mobile App Development                      22        5000        110000
+  Database Administration                     22        1000         22000
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 338,000.00
+GST @12%:                                               INR  40,560.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 378,560.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: SBI
+Account Number: 75577307841
+IFSC Code: ICIC0005678
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @1% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

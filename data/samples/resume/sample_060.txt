@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Rahul Verma
+Email: rahul.verma@gmail.com
+Phone: +91-9641440900
+LinkedIn: linkedin.com/in/rahulverma
+GitHub: github.com/rahul708
+
+OBJECTIVE
+Motivated software engineer with 1+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+VIT Vellore, 2020–2024
+CGPA: 9.42/10
+
+SKILLS
+Technical Skills: Deep Learning, Pandas, Django, Java, REST APIs
+Tools & Technologies: Keras
+Languages: English (Fluent), Hindi, Kannada
+
+WORK EXPERIENCE
+
+Software Engineer | Infosys | 2024–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 34% through code optimization
+- Mentored 2 junior developers and conducted code reviews
+
+Intern | Capgemini | 2023–2024
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+E-commerce Recommendation Engine
+- Built using REST APIs and Keras
+- Achieved 88% accuracy in predictions
+- Deployed on Google Cloud
+
+CERTIFICATIONS
+- Azure Fundamentals
+- Oracle Java SE
+
+ACHIEVEMENTS
+- Dean's List 2021-22
+- CodeChef 3-star rated
+
+REFERENCES
+Available upon request

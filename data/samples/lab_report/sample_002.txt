@@ -1,0 +1,82 @@
+LABORATORY REPORT
+
+Experiment Name: Verification of Ohm's Law
+Subject: Physics Lab
+Student Name: Ananya Das
+Roll Number: 204624
+Batch: A2
+Date of Experiment: 22/6/2024
+Date of Submission: 22/6/2024
+
+AIM / OBJECTIVE:
+To verify and study verification of ohm's law and to understand the relationship between
+voltage and current under controlled conditions.
+
+THEORY / BACKGROUND:
+Verification of Ohm's Law is a fundamental concept in Physics. According to the theoretical framework,
+voltage is directly proportional to current
+when resistance remains constant. This relationship can be expressed
+mathematically and verified through controlled experimentation.
+
+APPARATUS / MATERIALS REQUIRED:
+1. Oscilloscope
+2. Breadboard
+3. Resistors (various values)
+4. Function generator
+5. Pendulum bob
+
+PROCEDURE:
+1. Set up the apparatus as shown in the circuit/experimental diagram.
+2. Ensure all connections are secure and the circuit is properly grounded.
+3. Gradually vary voltage from minimum to maximum range.
+4. For each setting, record the corresponding current.
+5. Repeat each reading 4 times to minimize random errors.
+6. Tabulate all observations carefully.
+7. Plot the graph of voltage vs current.
+
+OBSERVATIONS:
+
+    S.No.     voltage         current        
+    ────────────────────────────────────────
+    1         4.25          2.97
+    2         7.77          5.77
+    3         9.97          8.41
+    4         9.83          1.08
+    5         7.02          5.01
+    6         9.14          6.52
+    7         6.59          9.63
+
+CALCULATIONS:
+Mean value = 5.627
+Standard Deviation = 2.744
+Percentage Error = 3.4%
+
+GRAPH:
+A graph of voltage vs current was plotted.
+The graph shows a linear relationship,
+confirming the theoretical prediction.
+
+RESULT:
+The experiment successfully verified Verification of Ohm's Law. The experimentally obtained value of
+resistance = 91.222 N/m
+The theoretical value = 51.917
+Percentage error = 2.59%
+
+SOURCES OF ERROR:
+1. Instrumental errors due to limited precision of measuring instruments
+2. Random errors due to fluctuations in voltage
+3. Human parallax error during reading
+4. Contact resistance in connections (for electrical experiments)
+
+CONCLUSION:
+The experiment was performed successfully. The results confirm the theoretical relationship
+between voltage and current. The percentage
+error of 2.49% is within acceptable limits, indicating accurate
+experimental technique.
+
+PRECAUTIONS:
+1. All readings were taken after the instrument had stabilized.
+2. The experiment was conducted under constant room temperature (24°C).
+3. All glassware was cleaned and dried before use.
+
+Signature of Student: _______________     Signature of Lab Instructor: _______________

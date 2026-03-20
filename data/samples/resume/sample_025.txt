@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Neha Agarwal
+Email: neha.agarwal@gmail.com
+Phone: +91-7133272825
+LinkedIn: linkedin.com/in/nehaagarwal
+GitHub: github.com/neha353
+
+OBJECTIVE
+Motivated software engineer with 1+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+BITS Pilani, 2019–2023
+CGPA: 9.19/10
+
+SKILLS
+Technical Skills: NumPy, Python, Linux, Power BI, Java
+Tools & Technologies: Keras
+Languages: English (Fluent), Hindi, Tamil
+
+WORK EXPERIENCE
+
+Software Engineer | Capgemini | 2023–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 46% through code optimization
+- Mentored 2 junior developers and conducted code reviews
+
+Intern | Infosys | 2022–2023
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+Hospital Management System
+- Built using Python and Python
+- Achieved 87% accuracy in predictions
+- Deployed on Azure
+
+CERTIFICATIONS
+- Azure Fundamentals
+- TensorFlow Developer Certificate
+
+ACHIEVEMENTS
+- Dean's List 2021-22
+- CodeChef 3-star rated
+
+REFERENCES
+Available upon request

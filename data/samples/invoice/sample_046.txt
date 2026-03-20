@@ -1,0 +1,48 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-5593
+Invoice Date: 28/6/2024
+Due Date: 1/4/2024
+Payment Terms: Net 30
+
+FROM:
+Flipkart
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@flipkart.com
+
+BILL TO:
+ABC Technologies Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  Database Administration                     10        1500         15000
+  Cloud Infrastructure                        73        1000         73000
+  Database Administration                     87        2500        217500
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 305,500.00
+GST @12%:                                               INR  36,660.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 342,160.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: Axis Bank
+Account Number: 21700193447
+IFSC Code: SBIN0009012
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @1% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

@@ -1,0 +1,47 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-4978
+Invoice Date: 21/2/2024
+Due Date: 15/6/2024
+Payment Terms: Net 30
+
+FROM:
+HCL Technologies
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@hcltechnologies.com
+
+BILL TO:
+XYZ Services Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  Mobile App Development                      93        1000         93000
+  Software Development Services               35        2000         70000
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 163,000.00
+GST @18%:                                               INR  29,340.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 192,340.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: Kotak Mahindra
+Account Number: 16884497780
+IFSC Code: HDFC0001234
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @1% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

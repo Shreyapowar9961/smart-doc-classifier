@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Priya Patel
+Email: priya.patel@gmail.com
+Phone: +91-8388168801
+LinkedIn: linkedin.com/in/priyapatel
+GitHub: github.com/priya984
+
+OBJECTIVE
+Motivated software engineer with 5+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+SRM University, 2019–2023
+CGPA: 8.58/10
+
+SKILLS
+Technical Skills: REST APIs, Kubernetes, NumPy, Pandas, Git
+Tools & Technologies: Linux, Flask
+Languages: English (Fluent), Hindi, Telugu
+
+WORK EXPERIENCE
+
+Software Engineer | Flipkart | 2023–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 24% through code optimization
+- Mentored 5 junior developers and conducted code reviews
+
+Intern | Flipkart | 2022–2023
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+Smart Traffic Management System
+- Built using Pandas and Pandas
+- Achieved 95% accuracy in predictions
+- Deployed on Google Cloud
+
+CERTIFICATIONS
+- Google Cloud Associate
+- Scrum Master
+
+ACHIEVEMENTS
+- Smart India Hackathon 2023 Finalist
+- LeetCode 500+ problems solved
+
+REFERENCES
+Available upon request

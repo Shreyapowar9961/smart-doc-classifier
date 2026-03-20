@@ -1,0 +1,48 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-3986
+Invoice Date: 23/8/2024
+Due Date: 2/5/2024
+Payment Terms: Net 30
+
+FROM:
+Microsoft India
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@microsoftindia.com
+
+BILL TO:
+XYZ Solutions Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  Software Development Services               26         500         13000
+  API Development                             40        2500        100000
+  Database Administration                     70        2000        140000
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 253,000.00
+GST @12%:                                               INR  30,360.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 283,360.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: HDFC Bank
+Account Number: 99134705779
+IFSC Code: ICIC0005678
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @2% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

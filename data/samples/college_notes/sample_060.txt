@@ -1,0 +1,108 @@
+DATABASE MANAGEMENT SYSTEMS — LECTURE NOTES
+Unit 4: SQL and Transactions
+Date: 9/2/2024
+
+============================================================
+CHAPTER OVERVIEW
+============================================================
+
+This unit covers fundamental concepts of SQL in the context of database management systems.
+By the end of this unit, students should be able to:
+• Explain the concept of SQL and its significance
+• Differentiate between ACID and transaction
+• Apply theoretical concepts to solve problems
+• Analyze real-world scenarios involving SQL
+
+────────────────────────────────────────────────────────────
+TOPIC 1: INTRODUCTION TO SQL
+────────────────────────────────────────────────────────────
+
+Definition:
+A SQL is defined as an algorithm that systematically explores nodes in a graph structure.
+
+Key Properties:
+1. Correctness — must satisfy all SQL requirements
+2. Scalability — performance under increasing load
+3. Durability — behavior in failure scenarios
+
+Example:
+Consider a system with 3 processes/nodes. The SQL operates
+as follows:
+Step 1: Initialize the SQL with default parameters
+Step 2: Apply ACID to determine priority/order
+Step 3: Execute the operation while maintaining transaction invariants
+Step 4: Verify correctness using post-conditions
+
+────────────────────────────────────────────────────────────
+TOPIC 2: ACID VS TRANSACTION
+────────────────────────────────────────────────────────────
+
+Comparison Table:
+┌─────────────────┬───────────────────────┬───────────────────────┐
+│ Parameter        │ ACID                  │ transaction           │
+├─────────────────┼───────────────────────┼───────────────────────┤
+│ Complexity      │ O(n log n)            │ O(n²)                 │
+│ Space           │ O(n)                  │ O(1)                  │
+│ Use Case        │ Large datasets        │ Small datasets        │
+│ Stability       │ Stable                │ Not stable            │
+└─────────────────┴───────────────────────┴───────────────────────┘
+
+Important Note: ACID is preferred when stability of equal elements must be preserved.
+
+────────────────────────────────────────────────────────────
+TOPIC 3: ALGORITHMS & COMPLEXITY ANALYSIS
+────────────────────────────────────────────────────────────
+
+Algorithm — Sql:
+```
+function SQL(input):
+    if input is empty:
+        return null
+    
+    result = initialize()
+    for each element in input:
+        process(element)
+        update(result)
+    
+    return result
+```
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+Best Case: O(log n)
+Worst Case: O(n)
+
+────────────────────────────────────────────────────────────
+PRACTICE QUESTIONS
+────────────────────────────────────────────────────────────
+
+1. [2 marks] Define SQL and list its properties.
+
+2. [4 marks] Compare and contrast ACID with transaction using suitable examples.
+
+3. [6 marks] Given a scenario with 7 concurrent operations, trace the execution
+   of SQL step by step.
+
+4. [8 marks] Design an efficient algorithm using SQL for the following problem:
+   [Problem description with constraints and expected output]
+
+5. [Previous Year Question 2022] Explain the trade-offs between ACID and
+   transaction. When would you choose one over the other? (8 marks)
+
+────────────────────────────────────────────────────────────
+IMPORTANT FORMULAE
+────────────────────────────────────────────────────────────
+
+1. Efficiency = (Useful Work Done) / (Total Resources Used)
+2. Throughput = (Number of Processes Completed) / (Time Period)  
+3. Waiting Time = Completion Time - Burst Time - Arrival Time
+4. Turnaround Time = Completion Time - Arrival Time
+
+────────────────────────────────────────────────────────────
+REFERENCES
+────────────────────────────────────────────────────────────
+
+1. Silberschatz, Galvin, Gagne — "Database Management Systems", 10th Edition, Wiley
+2. NPTEL Video Lectures — Database Management Systems by Prof. Ananya Das, IIT Delhi
+3. GeeksForGeeks — SQL tutorials
+4. Previous year question papers — Anna University 2021

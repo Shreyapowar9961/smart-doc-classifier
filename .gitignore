@@ -1,0 +1,12 @@
+node_modules/
+.next/
+backend/dev.db
+backend/temp/
+*.pyc
+__pycache__/
+ml/models/
+*.pkl
+.env
+.env.local
+Thumbs.db
+.DS_Store

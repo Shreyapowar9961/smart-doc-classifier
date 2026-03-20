@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Amit Singh
+Email: amit.singh@gmail.com
+Phone: +91-7154185462
+LinkedIn: linkedin.com/in/amitsingh
+GitHub: github.com/amit732
+
+OBJECTIVE
+Motivated software engineer with 5+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+SRM University, 2020–2024
+CGPA: 9.13/10
+
+SKILLS
+Technical Skills: Flask, TensorFlow, AWS, Power BI, scikit-learn
+Tools & Technologies: Django
+Languages: English (Fluent), Hindi, Marathi
+
+WORK EXPERIENCE
+
+Software Engineer | IBM India | 2024–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 27% through code optimization
+- Mentored 4 junior developers and conducted code reviews
+
+Intern | Flipkart | 2023–2024
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+Smart Traffic Management System
+- Built using Django and Flask
+- Achieved 91% accuracy in predictions
+- Deployed on AWS EC2
+
+CERTIFICATIONS
+- Azure Fundamentals
+- Scrum Master
+
+ACHIEVEMENTS
+- Smart India Hackathon 2023 Finalist
+- LeetCode 500+ problems solved
+
+REFERENCES
+Available upon request

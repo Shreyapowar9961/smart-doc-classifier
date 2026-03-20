@@ -1,0 +1,50 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-2320
+Invoice Date: 13/7/2024
+Due Date: 13/9/2024
+Payment Terms: Net 30
+
+FROM:
+Capgemini
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@capgemini.com
+
+BILL TO:
+ABC Solutions Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  Software Development Services               82         500         41000
+  Cloud Infrastructure                        11        2000         22000
+  Database Administration                     83        1500        124500
+  IT Consulting                               68         500         34000
+  Data Analytics                              28        5000        140000
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 361,500.00
+GST @18%:                                               INR  65,070.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 426,570.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: Axis Bank
+Account Number: 15459311688
+IFSC Code: HDFC0001234
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @3% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

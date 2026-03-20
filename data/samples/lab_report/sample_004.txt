@@ -1,0 +1,83 @@
+LABORATORY REPORT
+
+Experiment Name: Simple Harmonic Motion Analysis
+Subject: Physics Lab
+Student Name: Karthik Reddy
+Roll Number: 207357
+Batch: B2
+Date of Experiment: 21/7/2024
+Date of Submission: 21/7/2024
+
+AIM / OBJECTIVE:
+To verify and study simple harmonic motion analysis and to understand the relationship between
+oscillation and frequency under controlled conditions.
+
+THEORY / BACKGROUND:
+Simple Harmonic Motion Analysis is a fundamental concept in Physics. According to the theoretical framework,
+oscillation is directly proportional to frequency
+when amplitude remains constant. This relationship can be expressed
+mathematically and verified through controlled experimentation.
+
+APPARATUS / MATERIALS REQUIRED:
+1. Voltmeter
+2. Breadboard
+3. Resistors (various values)
+4. Function generator
+5. Conical flask
+
+PROCEDURE:
+1. Set up the apparatus as shown in the circuit/experimental diagram.
+2. Ensure all connections are secure and the circuit is properly grounded.
+3. Gradually vary oscillation from minimum to maximum range.
+4. For each setting, record the corresponding frequency.
+5. Repeat each reading 4 times to minimize random errors.
+6. Tabulate all observations carefully.
+7. Plot the graph of oscillation vs frequency.
+
+OBSERVATIONS:
+
+    S.No.     oscillation     frequency      
+    ────────────────────────────────────────
+    1         3.85          4.51
+    2         2.06          1.05
+    3         7.48          1.57
+    4         7.71          1.41
+    5         8.63          4.22
+    6         5.53          3.61
+    7         7.17          6.46
+    8         3.53          9.34
+
+CALCULATIONS:
+Mean value = 4.021
+Standard Deviation = 2.654
+Percentage Error = 1.38%
+
+GRAPH:
+A graph of oscillation vs frequency was plotted.
+The graph shows a logarithmic relationship,
+confirming the theoretical prediction.
+
+RESULT:
+The experiment successfully verified Simple Harmonic Motion Analysis. The experimentally obtained value of
+amplitude = 79.88 N/m
+The theoretical value = 96.053
+Percentage error = 0.81%
+
+SOURCES OF ERROR:
+1. Instrumental errors due to limited precision of measuring instruments
+2. Random errors due to fluctuations in oscillation
+3. Human parallax error during reading
+4. Contact resistance in connections (for electrical experiments)
+
+CONCLUSION:
+The experiment was performed successfully. The results confirm the theoretical relationship
+between oscillation and frequency. The percentage
+error of 3.42% is within acceptable limits, indicating accurate
+experimental technique.
+
+PRECAUTIONS:
+1. All readings were taken after the instrument had stabilized.
+2. The experiment was conducted under constant room temperature (28°C).
+3. All glassware was cleaned and dried before use.
+
+Signature of Student: _______________     Signature of Lab Instructor: _______________

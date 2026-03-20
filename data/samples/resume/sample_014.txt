@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Vikram Nair
+Email: vikram.nair@gmail.com
+Phone: +91-7396418889
+LinkedIn: linkedin.com/in/vikramnair
+GitHub: github.com/vikram749
+
+OBJECTIVE
+Motivated software engineer with 1+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+IIIT Hyderabad, 2020–2024
+CGPA: 9.53/10
+
+SKILLS
+Technical Skills: Docker, SQL, Azure, TensorFlow, Django
+Tools & Technologies: AWS, Kubernetes, Machine Learning
+Languages: English (Fluent), Hindi, Kannada
+
+WORK EXPERIENCE
+
+Software Engineer | Mphasis | 2024–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 46% through code optimization
+- Mentored 4 junior developers and conducted code reviews
+
+Intern | HCL Technologies | 2023–2024
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+Smart Traffic Management System
+- Built using Docker and AWS
+- Achieved 97% accuracy in predictions
+- Deployed on Heroku
+
+CERTIFICATIONS
+- Azure Fundamentals
+- Oracle Java SE
+
+ACHIEVEMENTS
+- Smart India Hackathon 2023 Finalist
+- Kaggle Expert
+
+REFERENCES
+Available upon request

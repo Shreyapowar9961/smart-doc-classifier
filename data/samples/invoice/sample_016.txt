@@ -1,0 +1,50 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-3126
+Invoice Date: 10/7/2024
+Due Date: 23/12/2024
+Payment Terms: Net 30
+
+FROM:
+L&T Infotech
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@l&tinfotech.com
+
+BILL TO:
+ABC Solutions Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  Mobile App Development                      53        2000        106000
+  IT Consulting                               17        1500         25500
+  IT Consulting                               58        2000        116000
+  Mobile App Development                      45        1000         45000
+  Mobile App Development                      82        2500        205000
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 497,500.00
+GST @5%:                                               INR  24,875.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 522,375.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: ICICI Bank
+Account Number: 80577558121
+IFSC Code: HDFC0001234
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @1% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

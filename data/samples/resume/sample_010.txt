@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Rahul Verma
+Email: rahul.verma@gmail.com
+Phone: +91-7400560567
+LinkedIn: linkedin.com/in/rahulverma
+GitHub: github.com/rahul871
+
+OBJECTIVE
+Motivated software engineer with 1+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+IIT Delhi, 2020–2024
+CGPA: 9.8/10
+
+SKILLS
+Technical Skills: React, Data Analysis, Node.js, Machine Learning, Pandas
+Tools & Technologies: MongoDB, C++, Linux, Power BI
+Languages: English (Fluent), Hindi, Tamil
+
+WORK EXPERIENCE
+
+Software Engineer | TechCorp India | 2024–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 25% through code optimization
+- Mentored 5 junior developers and conducted code reviews
+
+Intern | Capgemini | 2023–2024
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+E-commerce Recommendation Engine
+- Built using Linux and Machine Learning
+- Achieved 98% accuracy in predictions
+- Deployed on Azure
+
+CERTIFICATIONS
+- AWS Certified Developer
+- TensorFlow Developer Certificate
+
+ACHIEVEMENTS
+- Best Paper Award at IEEE Conference
+- CodeChef 3-star rated
+
+REFERENCES
+Available upon request

@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Suresh Pillai
+Email: suresh.pillai@gmail.com
+Phone: +91-7297265480
+LinkedIn: linkedin.com/in/sureshpillai
+GitHub: github.com/suresh878
+
+OBJECTIVE
+Motivated software engineer with 4+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+BITS Pilani, 2014–2018
+CGPA: 9.65/10
+
+SKILLS
+Technical Skills: Python, Docker, TensorFlow, NumPy, Flask
+Tools & Technologies: JavaScript, Keras, Deep Learning, MongoDB, Java
+Languages: English (Fluent), Hindi, Tamil
+
+WORK EXPERIENCE
+
+Software Engineer | Flipkart | 2018–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 24% through code optimization
+- Mentored 5 junior developers and conducted code reviews
+
+Intern | L&T Infotech | 2017–2018
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+Hospital Management System
+- Built using TensorFlow and Flask
+- Achieved 93% accuracy in predictions
+- Deployed on Azure
+
+CERTIFICATIONS
+- AWS Certified Developer
+- Scrum Master
+
+ACHIEVEMENTS
+- Dean's List 2021-22
+- Kaggle Expert
+
+REFERENCES
+Available upon request

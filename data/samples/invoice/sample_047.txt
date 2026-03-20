@@ -1,0 +1,50 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-2600
+Invoice Date: 11/10/2024
+Due Date: 25/10/2024
+Payment Terms: Net 30
+
+FROM:
+Cognizant
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@cognizant.com
+
+BILL TO:
+XYZ Solutions Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  API Development                              4        5000         20000
+  Machine Learning Implementation             58        2000        116000
+  Data Analytics                              46        2500        115000
+  Database Administration                     56        1000         56000
+  Database Administration                     11        2500         27500
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 334,500.00
+GST @12%:                                               INR  40,140.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 374,640.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: ICICI Bank
+Account Number: 21652712442
+IFSC Code: HDFC0001234
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @2% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

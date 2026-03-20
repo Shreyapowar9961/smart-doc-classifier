@@ -1,0 +1,47 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-1111
+Invoice Date: 15/5/2024
+Due Date: 11/5/2024
+Payment Terms: Net 30
+
+FROM:
+HCL Technologies
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@hcltechnologies.com
+
+BILL TO:
+MNO Technologies Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  Machine Learning Implementation             84        1500        126000
+  Data Analytics                               8        5000         40000
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 166,000.00
+GST @5%:                                               INR   8,300.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 174,300.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: Axis Bank
+Account Number: 32792559691
+IFSC Code: UTIB0003456
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @3% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

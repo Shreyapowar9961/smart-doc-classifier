@@ -1,0 +1,30 @@
+// prisma/schema.prisma
+// Smart Document Classifier — SQLite Database Schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Document {
+  id          Int      @id @default(autoincrement())
+  filename    String
+  originalName String
+  path        String
+  class       String   // resume | invoice | research_paper | lab_report | college_notes
+  confidence  Float    @default(0)
+  text        String   // extracted OCR text (stored for re-embedding)
+  embedding   String   // JSON-serialized float array [0.12, -0.34, ...] (384-dim)
+  uploadDate  DateTime @default(now())
+  fileSize    Int      @default(0)   // bytes
+  pageCount   Int      @default(1)
+  mimeType    String   @default("application/pdf")
+  manualOverride Boolean @default(false)
+
+  @@index([class])
+  @@index([uploadDate])
+}

@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Ananya Das
+Email: ananya.das@gmail.com
+Phone: +91-9563196714
+LinkedIn: linkedin.com/in/ananyadas
+GitHub: github.com/ananya389
+
+OBJECTIVE
+Motivated software engineer with 5+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+BITS Pilani, 2018–2022
+CGPA: 7.77/10
+
+SKILLS
+Technical Skills: Linux, Power BI, REST APIs, Azure, Node.js
+Tools & Technologies: SQL
+Languages: English (Fluent), Hindi, Marathi
+
+WORK EXPERIENCE
+
+Software Engineer | IBM India | 2022–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 46% through code optimization
+- Mentored 3 junior developers and conducted code reviews
+
+Intern | Mphasis | 2021–2022
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+E-commerce Recommendation Engine
+- Built using Power BI and REST APIs
+- Achieved 87% accuracy in predictions
+- Deployed on Google Cloud
+
+CERTIFICATIONS
+- AWS Certified Developer
+- Scrum Master
+
+ACHIEVEMENTS
+- Dean's List 2021-22
+- CodeChef 3-star rated
+
+REFERENCES
+Available upon request

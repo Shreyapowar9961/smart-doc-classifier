@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Arjun Sharma
+Email: arjun.sharma@gmail.com
+Phone: +91-7609346980
+LinkedIn: linkedin.com/in/arjunsharma
+GitHub: github.com/arjun858
+
+OBJECTIVE
+Motivated software engineer with 1+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+NIT Trichy, 2017–2021
+CGPA: 8.59/10
+
+SKILLS
+Technical Skills: Machine Learning, Azure, REST APIs, Deep Learning, TensorFlow
+Tools & Technologies: Keras, Python
+Languages: English (Fluent), Hindi, Marathi
+
+WORK EXPERIENCE
+
+Software Engineer | Amazon India | 2021–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 22% through code optimization
+- Mentored 3 junior developers and conducted code reviews
+
+Intern | Wipro | 2020–2021
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+E-commerce Recommendation Engine
+- Built using Deep Learning and Deep Learning
+- Achieved 90% accuracy in predictions
+- Deployed on Heroku
+
+CERTIFICATIONS
+- Google Cloud Associate
+- Oracle Java SE
+
+ACHIEVEMENTS
+- Dean's List 2021-22
+- LeetCode 500+ problems solved
+
+REFERENCES
+Available upon request

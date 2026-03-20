@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Rahul Verma
+Email: rahul.verma@gmail.com
+Phone: +91-7832810061
+LinkedIn: linkedin.com/in/rahulverma
+GitHub: github.com/rahul894
+
+OBJECTIVE
+Motivated software engineer with 5+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+NIT Trichy, 2018–2022
+CGPA: 8.77/10
+
+SKILLS
+Technical Skills: scikit-learn, Deep Learning, Linux, TensorFlow, MongoDB
+Tools & Technologies: REST APIs
+Languages: English (Fluent), Hindi, Telugu
+
+WORK EXPERIENCE
+
+Software Engineer | Infosys | 2022–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 31% through code optimization
+- Mentored 3 junior developers and conducted code reviews
+
+Intern | Mindtree | 2021–2022
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+Smart Traffic Management System
+- Built using scikit-learn and Deep Learning
+- Achieved 89% accuracy in predictions
+- Deployed on Heroku
+
+CERTIFICATIONS
+- AWS Certified Developer
+- Scrum Master
+
+ACHIEVEMENTS
+- Smart India Hackathon 2023 Finalist
+- Kaggle Expert
+
+REFERENCES
+Available upon request

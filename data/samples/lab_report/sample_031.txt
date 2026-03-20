@@ -1,0 +1,83 @@
+LABORATORY REPORT
+
+Experiment Name: Digital Logic Gate Verification
+Subject: Electronics Lab
+Student Name: Ravi Bhat
+Roll Number: 205162
+Batch: B1
+Date of Experiment: 15/8/2024
+Date of Submission: 15/8/2024
+
+AIM / OBJECTIVE:
+To verify and study digital logic gate verification and to understand the relationship between
+AND and OR under controlled conditions.
+
+THEORY / BACKGROUND:
+Digital Logic Gate Verification is a fundamental concept in Electronics. According to the theoretical framework,
+AND is directly proportional to OR
+when NOT remains constant. This relationship can be expressed
+mathematically and verified through controlled experimentation.
+
+APPARATUS / MATERIALS REQUIRED:
+1. Beaker (500mL)
+2. Connecting wires
+3. Resistors (various values)
+4. Function generator
+5. Pendulum bob
+
+PROCEDURE:
+1. Set up the apparatus as shown in the circuit/experimental diagram.
+2. Ensure all connections are secure and the circuit is properly grounded.
+3. Gradually vary AND from minimum to maximum range.
+4. For each setting, record the corresponding OR.
+5. Repeat each reading 2 times to minimize random errors.
+6. Tabulate all observations carefully.
+7. Plot the graph of AND vs OR.
+
+OBSERVATIONS:
+
+    S.No.     AND             OR             
+    ────────────────────────────────────────
+    1         1.0          1.31
+    2         3.56          1.15
+    3         2.22          9.01
+    4         1.06          9.86
+    5         2.93          3.83
+    6         7.94          9.49
+    7         8.4          9.27
+    8         5.6          6.14
+
+CALCULATIONS:
+Mean value = 6.258
+Standard Deviation = 3.474
+Percentage Error = 1.05%
+
+GRAPH:
+A graph of AND vs OR was plotted.
+The graph shows a sinusoidal relationship,
+confirming the theoretical prediction.
+
+RESULT:
+The experiment successfully verified Digital Logic Gate Verification. The experimentally obtained value of
+NOT = 89.073 mol/L
+The theoretical value = 24.066
+Percentage error = 4.07%
+
+SOURCES OF ERROR:
+1. Instrumental errors due to limited precision of measuring instruments
+2. Random errors due to fluctuations in AND
+3. Human parallax error during reading
+4. Contact resistance in connections (for electrical experiments)
+
+CONCLUSION:
+The experiment was performed successfully. The results confirm the theoretical relationship
+between AND and OR. The percentage
+error of 0.55% is within acceptable limits, indicating accurate
+experimental technique.
+
+PRECAUTIONS:
+1. All readings were taken after the instrument had stabilized.
+2. The experiment was conducted under constant room temperature (25°C).
+3. All glassware was cleaned and dried before use.
+
+Signature of Student: _______________     Signature of Lab Instructor: _______________

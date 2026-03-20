@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Suresh Pillai
+Email: suresh.pillai@gmail.com
+Phone: +91-7453285987
+LinkedIn: linkedin.com/in/sureshpillai
+GitHub: github.com/suresh543
+
+OBJECTIVE
+Motivated software engineer with 4+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+IIIT Hyderabad, 2017–2021
+CGPA: 7.04/10
+
+SKILLS
+Technical Skills: Keras, Power BI, Data Analysis, AWS, Flask
+Tools & Technologies: C++
+Languages: English (Fluent), Hindi, Telugu
+
+WORK EXPERIENCE
+
+Software Engineer | Capgemini | 2021–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 40% through code optimization
+- Mentored 5 junior developers and conducted code reviews
+
+Intern | Accenture | 2020–2021
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+Hospital Management System
+- Built using Power BI and AWS
+- Achieved 87% accuracy in predictions
+- Deployed on Google Cloud
+
+CERTIFICATIONS
+- Azure Fundamentals
+- Scrum Master
+
+ACHIEVEMENTS
+- Best Paper Award at IEEE Conference
+- LeetCode 500+ problems solved
+
+REFERENCES
+Available upon request

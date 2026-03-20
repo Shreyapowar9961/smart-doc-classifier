@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Sneha Iyer
+Email: sneha.iyer@gmail.com
+Phone: +91-7393734347
+LinkedIn: linkedin.com/in/snehaiyer
+GitHub: github.com/sneha778
+
+OBJECTIVE
+Motivated software engineer with 4+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+IIT Bombay, 2014–2018
+CGPA: 7.53/10
+
+SKILLS
+Technical Skills: Pandas, MongoDB, Keras, JavaScript, AWS
+Tools & Technologies: GraphQL, Power BI, Kubernetes, Azure
+Languages: English (Fluent), Hindi, Tamil
+
+WORK EXPERIENCE
+
+Software Engineer | Cognizant | 2018–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 40% through code optimization
+- Mentored 2 junior developers and conducted code reviews
+
+Intern | HCL Technologies | 2017–2018
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+Smart Traffic Management System
+- Built using GraphQL and JavaScript
+- Achieved 87% accuracy in predictions
+- Deployed on Heroku
+
+CERTIFICATIONS
+- AWS Certified Developer
+- Scrum Master
+
+ACHIEVEMENTS
+- Smart India Hackathon 2023 Finalist
+- Kaggle Expert
+
+REFERENCES
+Available upon request

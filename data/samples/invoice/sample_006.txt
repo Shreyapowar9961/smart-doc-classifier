@@ -1,0 +1,50 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-3414
+Invoice Date: 8/8/2024
+Due Date: 12/1/2024
+Payment Terms: Net 30
+
+FROM:
+Amazon India
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@amazonindia.com
+
+BILL TO:
+MNO Solutions Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  Software Development Services               51        2500        127500
+  API Development                             31        2000         62000
+  IT Consulting                               48        1000         48000
+  Software Development Services               41         500         20500
+  API Development                             19        1000         19000
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 277,000.00
+GST @5%:                                               INR  13,850.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 290,850.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: SBI
+Account Number: 30749461554
+IFSC Code: UTIB0003456
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @2% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

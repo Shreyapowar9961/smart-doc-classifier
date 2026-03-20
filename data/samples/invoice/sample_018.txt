@@ -1,0 +1,49 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-6531
+Invoice Date: 3/1/2024
+Due Date: 21/10/2024
+Payment Terms: Net 30
+
+FROM:
+Amazon India
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@amazonindia.com
+
+BILL TO:
+ABC Solutions Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  Data Analytics                              99        2500        247500
+  Database Administration                     80        5000        400000
+  Software Development Services               64        5000        320000
+  Mobile App Development                      38        5000        190000
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 1,157,500.00
+GST @12%:                                               INR 138,900.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 1,296,400.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: Axis Bank
+Account Number: 50398859778
+IFSC Code: UTIB0003456
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @1% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

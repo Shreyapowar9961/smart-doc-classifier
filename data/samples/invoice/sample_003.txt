@@ -1,0 +1,49 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-7937
+Invoice Date: 12/5/2024
+Due Date: 6/4/2024
+Payment Terms: Net 30
+
+FROM:
+Mindtree
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@mindtree.com
+
+BILL TO:
+PQR Solutions Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  Security Audit                              25        1000         25000
+  Cloud Infrastructure                        20         500         10000
+  Machine Learning Implementation             13        2500         32500
+  Mobile App Development                      95        2500        237500
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 305,000.00
+GST @5%:                                               INR  15,250.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 320,250.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: SBI
+Account Number: 29834294138
+IFSC Code: UTIB0003456
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @1% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

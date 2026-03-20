@@ -1,0 +1,50 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-9743
+Invoice Date: 9/6/2024
+Due Date: 17/8/2024
+Payment Terms: Net 30
+
+FROM:
+Capgemini
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@capgemini.com
+
+BILL TO:
+PQR Services Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  IT Consulting                               93        2000        186000
+  API Development                             27        1500         40500
+  API Development                             53         500         26500
+  Data Analytics                              95        1000         95000
+  Software Development Services               34        2500         85000
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 433,000.00
+GST @18%:                                               INR  77,940.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 510,940.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: Kotak Mahindra
+Account Number: 68927002573
+IFSC Code: SBIN0009012
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @1% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

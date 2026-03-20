@@ -1,0 +1,83 @@
+LABORATORY REPORT
+
+Experiment Name: Stack Implementation using Arrays
+Subject: Data Structures Lab
+Student Name: Divya Kumar
+Roll Number: 204218
+Batch: C2
+Date of Experiment: 7/5/2024
+Date of Submission: 7/5/2024
+
+AIM / OBJECTIVE:
+To verify and study stack implementation using arrays and to understand the relationship between
+push and pop under controlled conditions.
+
+THEORY / BACKGROUND:
+Stack Implementation using Arrays is a fundamental concept in Data Structures. According to the theoretical framework,
+push is directly proportional to pop
+when overflow remains constant. This relationship can be expressed
+mathematically and verified through controlled experimentation.
+
+APPARATUS / MATERIALS REQUIRED:
+1. Power supply (0-30V)
+2. Spring balance
+3. IC 7408
+4. Stopwatch
+5. Rheostat
+
+PROCEDURE:
+1. Set up the apparatus as shown in the circuit/experimental diagram.
+2. Ensure all connections are secure and the circuit is properly grounded.
+3. Gradually vary push from minimum to maximum range.
+4. For each setting, record the corresponding pop.
+5. Repeat each reading 4 times to minimize random errors.
+6. Tabulate all observations carefully.
+7. Plot the graph of push vs pop.
+
+OBSERVATIONS:
+
+    S.No.     push            pop            
+    ────────────────────────────────────────
+    1         2.6          7.14
+    2         2.68          2.56
+    3         5.62          4.39
+    4         4.86          6.01
+    5         2.17          6.26
+    6         3.3          3.98
+    7         7.39          2.39
+    8         2.38          3.9
+
+CALCULATIONS:
+Mean value = 4.579
+Standard Deviation = 1.626
+Percentage Error = 1.77%
+
+GRAPH:
+A graph of push vs pop was plotted.
+The graph shows a hyperbolic relationship,
+confirming the theoretical prediction.
+
+RESULT:
+The experiment successfully verified Stack Implementation using Arrays. The experimentally obtained value of
+overflow = 95.742 Ω
+The theoretical value = 78.84
+Percentage error = 0.88%
+
+SOURCES OF ERROR:
+1. Instrumental errors due to limited precision of measuring instruments
+2. Random errors due to fluctuations in push
+3. Human parallax error during reading
+4. Contact resistance in connections (for electrical experiments)
+
+CONCLUSION:
+The experiment was performed successfully. The results confirm the theoretical relationship
+between push and pop. The percentage
+error of 2.76% is within acceptable limits, indicating accurate
+experimental technique.
+
+PRECAUTIONS:
+1. All readings were taken after the instrument had stabilized.
+2. The experiment was conducted under constant room temperature (25°C).
+3. All glassware was cleaned and dried before use.
+
+Signature of Student: _______________     Signature of Lab Instructor: _______________

@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Sneha Iyer
+Email: sneha.iyer@gmail.com
+Phone: +91-7215686308
+LinkedIn: linkedin.com/in/snehaiyer
+GitHub: github.com/sneha670
+
+OBJECTIVE
+Motivated software engineer with 4+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+BITS Pilani, 2018–2022
+CGPA: 9.68/10
+
+SKILLS
+Technical Skills: NumPy, scikit-learn, MongoDB, React, Kubernetes
+Tools & Technologies: Azure, Python, JavaScript, Data Analysis
+Languages: English (Fluent), Hindi, Tamil
+
+WORK EXPERIENCE
+
+Software Engineer | Wipro | 2022–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 49% through code optimization
+- Mentored 2 junior developers and conducted code reviews
+
+Intern | Microsoft India | 2021–2022
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+E-commerce Recommendation Engine
+- Built using MongoDB and JavaScript
+- Achieved 95% accuracy in predictions
+- Deployed on Google Cloud
+
+CERTIFICATIONS
+- Google Cloud Associate
+- Scrum Master
+
+ACHIEVEMENTS
+- Dean's List 2021-22
+- Kaggle Expert
+
+REFERENCES
+Available upon request

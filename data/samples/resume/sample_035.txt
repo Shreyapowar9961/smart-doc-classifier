@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Ravi Bhat
+Email: ravi.bhat@gmail.com
+Phone: +91-7752438459
+LinkedIn: linkedin.com/in/ravibhat
+GitHub: github.com/ravi581
+
+OBJECTIVE
+Motivated software engineer with 1+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+IIT Bombay, 2018–2022
+CGPA: 9.3/10
+
+SKILLS
+Technical Skills: Linux, TensorFlow, Docker, Machine Learning, Python
+Tools & Technologies: C++, MongoDB, Git, Kubernetes
+Languages: English (Fluent), Hindi, Kannada
+
+WORK EXPERIENCE
+
+Software Engineer | Microsoft India | 2022–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 49% through code optimization
+- Mentored 4 junior developers and conducted code reviews
+
+Intern | Capgemini | 2021–2022
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+Smart Traffic Management System
+- Built using MongoDB and Git
+- Achieved 86% accuracy in predictions
+- Deployed on Azure
+
+CERTIFICATIONS
+- Google Cloud Associate
+- Oracle Java SE
+
+ACHIEVEMENTS
+- Best Paper Award at IEEE Conference
+- LeetCode 500+ problems solved
+
+REFERENCES
+Available upon request

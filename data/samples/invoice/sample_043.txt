@@ -1,0 +1,48 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-1794
+Invoice Date: 5/11/2024
+Due Date: 8/2/2024
+Payment Terms: Net 30
+
+FROM:
+Microsoft India
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@microsoftindia.com
+
+BILL TO:
+ABC Enterprises Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  Software Development Services               28        2500         70000
+  Security Audit                              48         500         24000
+  Security Audit                              85        2000        170000
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 264,000.00
+GST @5%:                                               INR  13,200.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 277,200.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: HDFC Bank
+Account Number: 85300279238
+IFSC Code: UTIB0003456
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @1% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!

@@ -1,0 +1,108 @@
+MACHINE LEARNING — LECTURE NOTES
+Unit 6: Neural Networks
+Date: 25/8/2024
+
+============================================================
+CHAPTER OVERVIEW
+============================================================
+
+This unit covers fundamental concepts of perceptron in the context of machine learning.
+By the end of this unit, students should be able to:
+• Explain the concept of perceptron and its significance
+• Differentiate between backpropagation and gradient descent
+• Apply theoretical concepts to solve problems
+• Analyze real-world scenarios involving perceptron
+
+────────────────────────────────────────────────────────────
+TOPIC 1: INTRODUCTION TO PERCEPTRON
+────────────────────────────────────────────────────────────
+
+Definition:
+A perceptron is defined as an algorithm that systematically explores nodes in a graph structure.
+
+Key Properties:
+1. Efficiency — must satisfy all perceptron requirements
+2. Reliability — performance under increasing load
+3. Isolation — behavior in failure scenarios
+
+Example:
+Consider a system with 6 processes/nodes. The perceptron operates
+as follows:
+Step 1: Initialize the perceptron with default parameters
+Step 2: Apply backpropagation to determine priority/order
+Step 3: Execute the operation while maintaining gradient descent invariants
+Step 4: Verify correctness using post-conditions
+
+────────────────────────────────────────────────────────────
+TOPIC 2: BACKPROPAGATION VS GRADIENT DESCENT
+────────────────────────────────────────────────────────────
+
+Comparison Table:
+┌─────────────────┬───────────────────────┬───────────────────────┐
+│ Parameter        │ backpropagation       │ gradient descent      │
+├─────────────────┼───────────────────────┼───────────────────────┤
+│ Complexity      │ O(n log n)            │ O(n²)                 │
+│ Space           │ O(n)                  │ O(1)                  │
+│ Use Case        │ Large datasets        │ Small datasets        │
+│ Stability       │ Stable                │ Not stable            │
+└─────────────────┴───────────────────────┴───────────────────────┘
+
+Important Note: backpropagation is preferred when data is already partially sorted.
+
+────────────────────────────────────────────────────────────
+TOPIC 3: ALGORITHMS & COMPLEXITY ANALYSIS
+────────────────────────────────────────────────────────────
+
+Algorithm — Perceptron:
+```
+function perceptron(input):
+    if input is empty:
+        return null
+    
+    result = initialize()
+    for each element in input:
+        process(element)
+        update(result)
+    
+    return result
+```
+
+Time Complexity: O(1)
+Space Complexity: O(1)
+Best Case: O(1)
+Worst Case: O(n log n)
+
+────────────────────────────────────────────────────────────
+PRACTICE QUESTIONS
+────────────────────────────────────────────────────────────
+
+1. [2 marks] Define perceptron and list its properties.
+
+2. [4 marks] Compare and contrast backpropagation with gradient descent using suitable examples.
+
+3. [6 marks] Given a scenario with 7 concurrent operations, trace the execution
+   of perceptron step by step.
+
+4. [8 marks] Design an efficient algorithm using perceptron for the following problem:
+   [Problem description with constraints and expected output]
+
+5. [Previous Year Question 2022] Explain the trade-offs between backpropagation and
+   gradient descent. When would you choose one over the other? (8 marks)
+
+────────────────────────────────────────────────────────────
+IMPORTANT FORMULAE
+────────────────────────────────────────────────────────────
+
+1. Efficiency = (Useful Work Done) / (Total Resources Used)
+2. Throughput = (Number of Processes Completed) / (Time Period)  
+3. Waiting Time = Completion Time - Burst Time - Arrival Time
+4. Turnaround Time = Completion Time - Arrival Time
+
+────────────────────────────────────────────────────────────
+REFERENCES
+────────────────────────────────────────────────────────────
+
+1. Silberschatz, Galvin, Gagne — "Machine Learning", 10th Edition, Wiley
+2. NPTEL Video Lectures — Machine Learning by Prof. Rahul Verma, IIT Delhi
+3. GeeksForGeeks — perceptron tutorials
+4. Previous year question papers — IIT Bombay 2021

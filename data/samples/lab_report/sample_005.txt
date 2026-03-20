@@ -1,0 +1,81 @@
+LABORATORY REPORT
+
+Experiment Name: Transistor as a Switch
+Subject: Electronics Lab
+Student Name: Pooja Mehta
+Roll Number: 207113
+Batch: A1
+Date of Experiment: 18/9/2024
+Date of Submission: 18/9/2024
+
+AIM / OBJECTIVE:
+To verify and study transistor as a switch and to understand the relationship between
+BJT and saturation under controlled conditions.
+
+THEORY / BACKGROUND:
+Transistor as a Switch is a fundamental concept in Electronics. According to the theoretical framework,
+BJT is directly proportional to saturation
+when cut-off remains constant. This relationship can be expressed
+mathematically and verified through controlled experimentation.
+
+APPARATUS / MATERIALS REQUIRED:
+1. Beaker (500mL)
+2. Burette (50mL)
+3. Standard solution (0.1M)
+4. Stopwatch
+5. Conical flask
+
+PROCEDURE:
+1. Set up the apparatus as shown in the circuit/experimental diagram.
+2. Ensure all connections are secure and the circuit is properly grounded.
+3. Gradually vary BJT from minimum to maximum range.
+4. For each setting, record the corresponding saturation.
+5. Repeat each reading 2 times to minimize random errors.
+6. Tabulate all observations carefully.
+7. Plot the graph of BJT vs saturation.
+
+OBSERVATIONS:
+
+    S.No.     BJT             saturation     
+    ────────────────────────────────────────
+    1         2.11          1.05
+    2         6.37          5.83
+    3         9.52          3.74
+    4         7.73          9.13
+    5         4.09          4.71
+    6         6.81          5.61
+
+CALCULATIONS:
+Mean value = 5.012
+Standard Deviation = 2.429
+Percentage Error = 1.23%
+
+GRAPH:
+A graph of BJT vs saturation was plotted.
+The graph shows a linear relationship,
+confirming the theoretical prediction.
+
+RESULT:
+The experiment successfully verified Transistor as a Switch. The experimentally obtained value of
+cut-off = 85.287 Hz
+The theoretical value = 64.823
+Percentage error = 0.46%
+
+SOURCES OF ERROR:
+1. Instrumental errors due to limited precision of measuring instruments
+2. Random errors due to fluctuations in BJT
+3. Human parallax error during reading
+4. Contact resistance in connections (for electrical experiments)
+
+CONCLUSION:
+The experiment was performed successfully. The results confirm the theoretical relationship
+between BJT and saturation. The percentage
+error of 3.39% is within acceptable limits, indicating accurate
+experimental technique.
+
+PRECAUTIONS:
+1. All readings were taken after the instrument had stabilized.
+2. The experiment was conducted under constant room temperature (24°C).
+3. All glassware was cleaned and dried before use.
+
+Signature of Student: _______________     Signature of Lab Instructor: _______________

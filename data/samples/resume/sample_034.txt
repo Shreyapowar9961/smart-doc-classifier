@@ -1,0 +1,52 @@
+CURRICULUM VITAE
+
+Suresh Pillai
+Email: suresh.pillai@gmail.com
+Phone: +91-9444725646
+LinkedIn: linkedin.com/in/sureshpillai
+GitHub: github.com/suresh395
+
+OBJECTIVE
+Motivated software engineer with 5+ years of experience in full-stack development
+and machine learning. Seeking a challenging role at a dynamic organization to apply skills
+in software development and contribute to innovative projects.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+NIT Trichy, 2016–2020
+CGPA: 7.46/10
+
+SKILLS
+Technical Skills: AWS, GraphQL, SQL, Data Analysis, JavaScript
+Tools & Technologies: Power BI, MongoDB, Kubernetes, React, Machine Learning
+Languages: English (Fluent), Hindi, Kannada
+
+WORK EXPERIENCE
+
+Software Engineer | Infosys | 2020–Present
+- Developed and maintained RESTful APIs using Python and Django framework
+- Collaborated with cross-functional teams to deliver projects on time
+- Improved system performance by 23% through code optimization
+- Mentored 5 junior developers and conducted code reviews
+
+Intern | TechCorp India | 2019–2020
+- Worked on machine learning models for predictive analytics
+- Built data pipelines using Apache Spark and Pandas
+- Created dashboards in Tableau for business intelligence reporting
+
+PROJECTS
+Hospital Management System
+- Built using JavaScript and MongoDB
+- Achieved 89% accuracy in predictions
+- Deployed on Azure
+
+CERTIFICATIONS
+- Google Cloud Associate
+- TensorFlow Developer Certificate
+
+ACHIEVEMENTS
+- Dean's List 2021-22
+- CodeChef 3-star rated
+
+REFERENCES
+Available upon request

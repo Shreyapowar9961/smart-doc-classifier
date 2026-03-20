@@ -1,0 +1,48 @@
+TAX INVOICE
+
+INVOICE NUMBER: INV-2013
+Invoice Date: 23/2/2024
+Due Date: 17/11/2024
+Payment Terms: Net 30
+
+FROM:
+Mphasis
+123, Tech Park, Whitefield
+Bangalore - 560066, Karnataka, India
+GSTIN: 29ABCDE1234F1Z5
+Email: billing@mphasis.com
+
+BILL TO:
+ABC Services Pvt Ltd
+456, Business Hub, Andheri East
+Mumbai - 400059, Maharashtra, India
+GSTIN: 27XYZAB5678G2H6
+
+DESCRIPTION OF SERVICES:
+──────────────────────────────────────────────────────────────────────
+  Item Description                             Qty    Unit Rate      Amount
+──────────────────────────────────────────────────────────────────────
+  Software Development Services               32        5000        160000
+  Security Audit                              57        2500        142500
+  Mobile App Development                      79        1000         79000
+──────────────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                               INR 381,500.00
+GST @12%:                                               INR  45,780.00
+──────────────────────────────────────────────────────────────────────
+TOTAL AMOUNT DUE:                                       INR 427,280.00
+──────────────────────────────────────────────────────────────────────
+
+PAYMENT DETAILS:
+Bank: SBI
+Account Number: 52597214169
+IFSC Code: UTIB0003456
+Account Type: Current
+
+NOTES:
+1. Payment due within 30 days of invoice date.
+2. Late payment will attract interest @2% per month.
+3. Please quote invoice number in all correspondence.
+4. This is a computer-generated invoice and does not require a signature.
+
+Thank you for your business!
