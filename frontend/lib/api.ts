@@ -5,7 +5,7 @@ const API_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:4000";
 
 const api = axios.create({
   baseURL: API_URL,
-  timeout: 90000, // 90s for OCR+ML
+  timeout: 300000, // 5 minutes for OCR+ML on Render
 });
 
 export interface Document {
@@ -71,6 +71,7 @@ export async function uploadDocument(
 
   const { data } = await api.post<UploadResult>("/upload/classify", form, {
     headers: { "Content-Type": "multipart/form-data" },
+    timeout: 300000,
     onUploadProgress: (e) => {
       if (onProgress && e.total) onProgress(Math.round((e.loaded * 100) / e.total));
     },
