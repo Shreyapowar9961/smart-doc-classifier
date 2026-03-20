@@ -110,13 +110,12 @@ if args.model == "tfidf_logreg":
     )
     
     clf = LogisticRegression(
-        C=5.0,
-        max_iter=1000,
-        multi_class="multinomial",
-        solver="lbfgs",
-        random_state=42,
-        class_weight="balanced",
-    )
+    C=5.0,
+    max_iter=1000,
+    solver="lbfgs",
+    random_state=42,
+    class_weight="balanced",
+)
     
     # Fit TF-IDF
     X_train_tfidf = tfidf.fit_transform(X_train)
