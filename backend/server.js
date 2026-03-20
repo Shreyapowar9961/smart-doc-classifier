@@ -27,12 +27,7 @@ CLASSES.forEach((cls) => {
 
 // ─── Middleware ─────────────────────────────────────────────────────────────
 app.use(cors({
-  origin: [
-    "http://localhost:3000",
-    "https://smart-doc-classifier.vercel.app",
-    "https://*.vercel.app",
-    process.env.FRONTEND_URL,
-  ].filter(Boolean),
+  origin: true,
   methods: ["GET", "POST", "DELETE", "OPTIONS"],
   allowedHeaders: ["Content-Type", "Authorization"],
 }));
