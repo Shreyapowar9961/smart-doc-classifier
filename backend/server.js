@@ -29,6 +29,7 @@ CLASSES.forEach((cls) => {
 app.use(cors({
   origin: [
     "http://localhost:3000",
+    "https://smart-doc-classifier.vercel.app",
     "https://*.vercel.app",
     process.env.FRONTEND_URL,
   ].filter(Boolean),
