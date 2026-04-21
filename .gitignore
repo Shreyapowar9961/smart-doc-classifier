@@ -10,3 +10,5 @@ ml/models/
 .env.local
 Thumbs.db
 .DS_Store
+
+backend/uploads/
