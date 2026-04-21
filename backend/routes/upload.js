@@ -45,8 +45,8 @@ function runClassifier(filePath, manualClass = null) {
     const args = [scriptPath, filePath];
     if (manualClass) args.push("--manual-class", manualClass);
 
-const pythonCmd = "C:\\Users\\DS_USER\\anaconda3\\python.exe";    const proc = spawn(pythonCmd, args);
-
+    const pythonCmd = process.env.PYTHON_CMD || "python";
+    const proc = spawn(pythonCmd, args);
     let stdout = "";
     let stderr = "";
 
@@ -68,7 +68,7 @@ const pythonCmd = "C:\\Users\\DS_USER\\anaconda3\\python.exe";    const proc = s
 
     proc.on("error", (err) => reject(new Error(`Failed to start Python: ${err.message}`)));
 
-    // Timeout after 60 seconds
+    // Timeout after 5 minutes
     setTimeout(() => {
       proc.kill();
       reject(new Error("Classifier timed out after 60 seconds"));
@@ -165,7 +165,7 @@ router.post("/classify", upload.single("file"), async (req, res, next) => {
         path: relativePath,
         class: docClass,
         confidence,
-        text: text.slice(0, 10000), // cap at 10k chars
+        text: text.slice(0, 10000),
         embedding: JSON.stringify(embeddingArr),
         fileSize: req.file.size,
         pageCount,

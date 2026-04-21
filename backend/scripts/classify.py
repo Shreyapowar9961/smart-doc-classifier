@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 backend/scripts/classify.py
-Smart Document Classifier - ML Pipeline
+Smart Document Classifier - ML Pipeline (Optimized)
 """
 
 import sys
@@ -30,6 +30,44 @@ VALID_CLASSES = ["resume", "invoice", "research_paper", "lab_report", "college_n
 MODELS_DIR = os.path.join(os.path.dirname(__file__), "../../ml/models")
 POPPLER_PATH = r"C:\Program Files\poppler-25.12.0\Library\bin"
 
+# ----------------------------------------------------------------
+# Pre-load heavy models at startup (once per process)
+# ----------------------------------------------------------------
+_tfidf = None
+_clf = None
+_embedder = None
+
+def load_models():
+    global _tfidf, _clf, _embedder
+
+    # Load TF-IDF + classifier
+    classifier_path = os.path.join(MODELS_DIR, "classifier.pkl")
+    tfidf_path = os.path.join(MODELS_DIR, "tfidf.pkl")
+    if os.path.exists(classifier_path) and os.path.exists(tfidf_path):
+        try:
+            import pickle
+            with open(tfidf_path, "rb") as f:
+                _tfidf = pickle.load(f)
+            with open(classifier_path, "rb") as f:
+                _clf = pickle.load(f)
+        except Exception:
+            pass
+
+    # Load BERT embedding model
+    try:
+        from sentence_transformers import SentenceTransformer
+        cache_dir = os.path.join(MODELS_DIR, "sentence_transformer")
+        if os.path.exists(cache_dir):
+            _embedder = SentenceTransformer(cache_dir)
+        else:
+            _embedder = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
+    except Exception:
+        pass
+
+# Load everything immediately at script start
+load_models()
+
+
 def output_error(msg: str):
     print(json.dumps({
         "class": "college_notes",
@@ -50,41 +88,57 @@ def extract_text(file_path: str):
     page_count = 1
 
     try:
-        import pytesseract
-        from PIL import Image
-
         if ext == ".pdf":
+            # ✅ Try pdfplumber FIRST (instant for digital PDFs, no OCR needed)
+            try:
+                import pdfplumber
+                with pdfplumber.open(file_path) as pdf:
+                    page_count = len(pdf.pages)
+                    texts = [p.extract_text() or "" for p in pdf.pages[:5]]  # max 5 pages
+                combined = "\n\n".join(texts).strip()
+                if len(combined) > 100:  # Digital PDF with real text
+                    return combined, page_count
+                # Fall through to OCR if no text found (scanned PDF)
+            except Exception:
+                pass
+
+            # Fallback: OCR with reduced DPI for speed
             try:
                 from pdf2image import convert_from_path
+                from PIL import Image
                 pages = convert_from_path(
                     file_path,
-                    dpi=200,
-                    poppler_path=POPPLER_PATH
+                    dpi=150,           # ✅ Reduced from 200 → 150 (much faster)
+                    poppler_path=POPPLER_PATH,
+                    first_page=1,
+                    last_page=3,       # ✅ Max 3 pages instead of 10
+                    thread_count=2,    # ✅ Use 2 threads
                 )
                 page_count = len(pages)
                 texts = []
-                for page in pages[:10]:
-                    text = pytesseract.image_to_string(page, config="--psm 3")
+                for page in pages:
+                    # ✅ Resize large pages before OCR
+                    w, h = page.size
+                    if w > 1200:
+                        page = page.resize((1200, int(h * 1200 / w)))
+                    text = pytesseract.image_to_string(page, config="--psm 3 --oem 1")
                     texts.append(text)
                 return "\n\n".join(texts), page_count
 
             except ImportError:
-                try:
-                    import pdfplumber
-                    with pdfplumber.open(file_path) as pdf:
-                        page_count = len(pdf.pages)
-                        texts = [p.extract_text() or "" for p in pdf.pages[:10]]
-                    return "\n\n".join(texts), page_count
-                except ImportError:
-                    return output_error("pdf2image/pdfplumber not installed.")
+                return output_error("pdf2image/pdfplumber not installed.")
 
         else:
+            # Image file
+            from PIL import Image
             img = Image.open(file_path)
-            text = pytesseract.image_to_string(img, config="--psm 3")
+            # ✅ Resize large images before OCR
+            w, h = img.size
+            if w > 1200:
+                img = img.resize((1200, int(h * 1200 / w)))
+            text = pytesseract.image_to_string(img, config="--psm 3 --oem 1")
             return text, 1
 
-    except ImportError as e:
-        return output_error(f"pytesseract not installed: {e}")
     except Exception as e:
         return output_error(f"OCR failed: {e}")
 
@@ -96,20 +150,13 @@ def classify_text(text: str):
     if MANUAL_CLASS and MANUAL_CLASS in VALID_CLASSES:
         return MANUAL_CLASS, 1.0
 
-    classifier_path = os.path.join(MODELS_DIR, "classifier.pkl")
-    tfidf_path = os.path.join(MODELS_DIR, "tfidf.pkl")
-
-    if os.path.exists(classifier_path) and os.path.exists(tfidf_path):
+    # Use pre-loaded models
+    if _tfidf is not None and _clf is not None:
         try:
-            import pickle
-            with open(tfidf_path, "rb") as f:
-                tfidf = pickle.load(f)
-            with open(classifier_path, "rb") as f:
-                clf = pickle.load(f)
             clean_text = text.strip()[:5000]
-            X = tfidf.transform([clean_text])
-            pred = clf.predict(X)[0]
-            proba = clf.predict_proba(X)[0]
+            X = _tfidf.transform([clean_text])
+            pred = _clf.predict(X)[0]
+            proba = _clf.predict_proba(X)[0]
             confidence = float(proba.max())
             return pred, confidence
         except Exception:
@@ -163,41 +210,35 @@ def classify_text(text: str):
 # Step 3: Generate Embedding
 # ----------------------------------------------------------------
 def generate_embedding(text: str):
-    try:
-        from sentence_transformers import SentenceTransformer
-        cache_dir = os.path.join(MODELS_DIR, "sentence_transformer")
-        if os.path.exists(cache_dir):
-            model = SentenceTransformer(cache_dir)
-        else:
-            model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
-        clean_text = text.strip()[:512]
-        embedding = model.encode(clean_text, normalize_embeddings=True)
-        return embedding.tolist()
-
-    except ImportError:
+    # Use pre-loaded embedder
+    if _embedder is not None:
         try:
-            import pickle
-            import numpy as np
-            tfidf_path = os.path.join(MODELS_DIR, "tfidf.pkl")
-            if os.path.exists(tfidf_path):
-                with open(tfidf_path, "rb") as f:
-                    tfidf = pickle.load(f)
-                vec = tfidf.transform([text[:5000]]).toarray()[0]
-                if len(vec) >= 384:
-                    return vec[:384].tolist()
-                else:
-                    import numpy as np
-                    padded = np.zeros(384)
-                    padded[:len(vec)] = vec
-                    return padded.tolist()
+            clean_text = text.strip()[:512]
+            embedding = _embedder.encode(clean_text, normalize_embeddings=True)
+            return embedding.tolist()
         except Exception:
             pass
 
-        import hashlib
-        import numpy as np
-        seed = int(hashlib.md5(text[:200].encode()).hexdigest(), 16) % (2**32)
-        rng = np.random.default_rng(seed)
-        return rng.normal(0, 0.1, 384).tolist()
+    # Fallback: TF-IDF based embedding
+    if _tfidf is not None:
+        try:
+            import numpy as np
+            vec = _tfidf.transform([text[:5000]]).toarray()[0]
+            if len(vec) >= 384:
+                return vec[:384].tolist()
+            else:
+                padded = np.zeros(384)
+                padded[:len(vec)] = vec
+                return padded.tolist()
+        except Exception:
+            pass
+
+    # Last resort: deterministic random
+    import hashlib
+    import numpy as np
+    seed = int(hashlib.md5(text[:200].encode()).hexdigest(), 16) % (2**32)
+    rng = np.random.default_rng(seed)
+    return rng.normal(0, 0.1, 384).tolist()
 
 
 # ----------------------------------------------------------------
